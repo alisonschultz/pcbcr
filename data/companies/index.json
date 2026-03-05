@@ -1,0 +1,144 @@
+[
+  {
+    "id": "allianz-se",
+    "name": "Allianz SE",
+    "country": "DE",
+    "sector": "Insurance / Financial Services",
+    "regulationBasis": "voluntary",
+    "financialYears": [
+      "fy2017",
+      "fy2018",
+      "fy2019",
+      "fy2020",
+      "fy2021",
+      "fy2022",
+      "fy2024"
+    ]
+  },
+  {
+    "id": "anglo-american-plc",
+    "name": "Anglo American plc",
+    "country": "GB",
+    "sector": "Mining",
+    "regulationBasis": "voluntary",
+    "financialYears": [
+      "fy2023",
+      "fy2024"
+    ]
+  },
+  {
+    "id": "barclays-plc",
+    "name": "Barclays PLC",
+    "country": "GB",
+    "sector": "Banking",
+    "regulationBasis": "crd_iv_article_89",
+    "financialYears": [
+      "fy2022",
+      "fy2023",
+      "fy2024"
+    ]
+  },
+  {
+    "id": "bhp-group-limited",
+    "name": "BHP Group Limited",
+    "country": "AU",
+    "sector": "Mining",
+    "regulationBasis": "voluntary",
+    "financialYears": [
+      "fy2022",
+      "fy2024"
+    ]
+  },
+  {
+    "id": "bp-plc",
+    "name": "BP plc",
+    "country": "GB",
+    "sector": "Oil & Gas",
+    "regulationBasis": "voluntary",
+    "financialYears": [
+      "fy2020",
+      "fy2021",
+      "fy2022",
+      "fy2024"
+    ]
+  },
+  {
+    "id": "eni-s-p-a",
+    "name": "Eni S.p.A.",
+    "country": "IT",
+    "sector": "Oil & Gas",
+    "regulationBasis": "voluntary",
+    "financialYears": [
+      "fy2017",
+      "fy2018",
+      "fy2019",
+      "fy2020",
+      "fy2021"
+    ]
+  },
+  {
+    "id": "hsbc-holdings-plc",
+    "name": "HSBC Holdings plc",
+    "country": "GB",
+    "sector": "Banking",
+    "regulationBasis": "crd_iv_article_89",
+    "financialYears": [
+      "fy2022",
+      "fy2023"
+    ]
+  },
+  {
+    "id": "inter-ikea-group",
+    "name": "Inter IKEA Group",
+    "country": "NL",
+    "sector": "Retail / Franchise",
+    "regulationBasis": "voluntary",
+    "financialYears": [
+      "fy2025"
+    ]
+  },
+  {
+    "id": "koninklijke-philips-n-v",
+    "name": "Koninklijke Philips N.V.",
+    "country": "NL",
+    "sector": "Healthcare Technology",
+    "regulationBasis": "voluntary",
+    "financialYears": [
+      "fy2020",
+      "fy2021",
+      "fy2022"
+    ]
+  },
+  {
+    "id": "repsol-s-a",
+    "name": "Repsol S.A.",
+    "country": "ES",
+    "sector": "Oil & Gas",
+    "regulationBasis": "voluntary",
+    "financialYears": [
+      "fy2023",
+      "fy2024"
+    ]
+  },
+  {
+    "id": "shell-plc",
+    "name": "Shell plc",
+    "country": "GB",
+    "sector": "Oil & Gas",
+    "regulationBasis": "voluntary",
+    "financialYears": [
+      "fy2023",
+      "fy2024"
+    ]
+  },
+  {
+    "id": "smiths-group-plc",
+    "name": "Smiths Group Plc",
+    "country": "GB",
+    "sector": "Industrial",
+    "regulationBasis": "eu_directive_2021_2101",
+    "financialYears": [
+      "fy2025"
+    ]
+  }
+]

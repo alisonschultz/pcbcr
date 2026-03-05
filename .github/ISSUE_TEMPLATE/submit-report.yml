@@ -1,0 +1,52 @@
+name: Submit CbCR Report
+description: Submit a link to a company's public CbCR report for data extraction
+title: "[CbCR] "
+labels: ["cbcr-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting a CbCR report! Our automated system will extract the data and create a pull request for review.
+
+  - type: input
+    id: company_name
+    attributes:
+      label: Company Name
+      description: Full legal name of the ultimate parent entity
+      placeholder: "e.g., Volkswagen AG"
+    validations:
+      required: true
+
+  - type: input
+    id: report_url
+    attributes:
+      label: Report URL
+      description: Direct link to the CbCR report (PDF or XHTML)
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: input
+    id: financial_year
+    attributes:
+      label: Financial Year
+      description: "The financial year the report covers (e.g., 2025)"
+      placeholder: "2025"
+    validations:
+      required: true
+
+  - type: input
+    id: country
+    attributes:
+      label: Country of Registration
+      description: "ISO 2-letter code of the company's registered office (e.g., DE, FR, IE)"
+      placeholder: "IE"
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes
+      description: Any relevant context (report language, known issues, etc.)
+      placeholder: "Optional notes..."

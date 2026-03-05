@@ -1,0 +1,584 @@
+{
+  "companyId": "smiths-group-plc",
+  "companyName": "Smiths Group Plc",
+  "section1": {
+    "ultimateParentName": "Smiths Group Plc",
+    "registeredOfficeCountry": "GB",
+    "financialYearStart": "2024-08-01",
+    "financialYearEnd": "2025-07-31",
+    "reportingCurrency": "GBP",
+    "taxReportingBasis": "consolidated",
+    "basisDescription": "Based on reporting instructions used for tax purposes, pursuant to Section III, Parts B and C, of Annex III to Directive 2011/16/EU"
+  },
+  "section2": [
+    {
+      "taxJurisdiction": "All other tax jurisdictions",
+      "countryCode": "OTHER",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": 3506005690,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 324632325,
+      "incomeTaxPaidCashBasis": 93891864,
+      "incomeTaxAccruedCurrentYear": 99084622,
+      "accumulatedEarnings": 5551217854,
+      "numberOfEmployees": 13958
+    },
+    {
+      "taxJurisdiction": "Austria",
+      "countryCode": "AT",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 4817217,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 296496,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": 0,
+      "accumulatedEarnings": 0,
+      "numberOfEmployees": 8
+    },
+    {
+      "taxJurisdiction": "Belgium",
+      "countryCode": "BE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 5715162,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 817455,
+      "incomeTaxPaidCashBasis": 299525,
+      "incomeTaxAccruedCurrentYear": 221530,
+      "accumulatedEarnings": 3907408,
+      "numberOfEmployees": 8
+    },
+    {
+      "taxJurisdiction": "Czech Republic",
+      "countryCode": "CZ",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 99694674,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 7656311,
+      "incomeTaxPaidCashBasis": 1336023,
+      "incomeTaxAccruedCurrentYear": 1459384,
+      "accumulatedEarnings": 21107086,
+      "numberOfEmployees": 604
+    },
+    {
+      "taxJurisdiction": "Denmark",
+      "countryCode": "DK",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 4789987,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 991125,
+      "incomeTaxPaidCashBasis": 115733,
+      "incomeTaxAccruedCurrentYear": 218820,
+      "accumulatedEarnings": -73287,
+      "numberOfEmployees": 2
+    },
+    {
+      "taxJurisdiction": "Finland",
+      "countryCode": "FI",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 15816206,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 5133929,
+      "incomeTaxPaidCashBasis": 1153976,
+      "incomeTaxAccruedCurrentYear": 1035209,
+      "accumulatedEarnings": 31235500,
+      "numberOfEmployees": 43
+    },
+    {
+      "taxJurisdiction": "France",
+      "countryCode": "FR",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 192351955,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 11147038,
+      "incomeTaxPaidCashBasis": 1220734,
+      "incomeTaxAccruedCurrentYear": 3011281,
+      "accumulatedEarnings": 99538216,
+      "numberOfEmployees": 601
+    },
+    {
+      "taxJurisdiction": "Germany",
+      "countryCode": "DE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 414566994,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 39853904,
+      "incomeTaxPaidCashBasis": 4866520,
+      "incomeTaxAccruedCurrentYear": 15373089,
+      "accumulatedEarnings": 31017085,
+      "numberOfEmployees": 1016
+    },
+    {
+      "taxJurisdiction": "Greece",
+      "countryCode": "GR",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 4468497,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 953504,
+      "incomeTaxPaidCashBasis": 246799,
+      "incomeTaxAccruedCurrentYear": 209737,
+      "accumulatedEarnings": 3011080,
+      "numberOfEmployees": 3
+    },
+    {
+      "taxJurisdiction": "Hungary",
+      "countryCode": "HU",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 2633782,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 12922,
+      "incomeTaxPaidCashBasis": 74457,
+      "incomeTaxAccruedCurrentYear": 54919,
+      "accumulatedEarnings": 1075500,
+      "numberOfEmployees": 9
+    },
+    {
+      "taxJurisdiction": "Ireland",
+      "countryCode": "IE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 43963349,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 5442561,
+      "incomeTaxPaidCashBasis": 683120,
+      "incomeTaxAccruedCurrentYear": 878454,
+      "accumulatedEarnings": -14570995,
+      "numberOfEmployees": 102
+    },
+    {
+      "taxJurisdiction": "Italy",
+      "countryCode": "IT",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 105531581,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 5792986,
+      "incomeTaxPaidCashBasis": 5122771,
+      "incomeTaxAccruedCurrentYear": 2002813,
+      "accumulatedEarnings": 30451508,
+      "numberOfEmployees": 327
+    },
+    {
+      "taxJurisdiction": "Netherlands",
+      "countryCode": "NL",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 20374495,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 2242203,
+      "incomeTaxPaidCashBasis": 781334,
+      "incomeTaxAccruedCurrentYear": 585171,
+      "accumulatedEarnings": -12673493,
+      "numberOfEmployees": 98
+    },
+    {
+      "taxJurisdiction": "Norway",
+      "countryCode": "NO",
+      "jurisdictionType": "eea_state",
+      "revenueTotal": 5795204,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 1486128,
+      "incomeTaxPaidCashBasis": 398733,
+      "incomeTaxAccruedCurrentYear": 330722,
+      "accumulatedEarnings": -734978,
+      "numberOfEmployees": 8
+    },
+    {
+      "taxJurisdiction": "Poland",
+      "countryCode": "PL",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 6969559,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 1524610,
+      "incomeTaxPaidCashBasis": 1005535,
+      "incomeTaxAccruedCurrentYear": 269816,
+      "accumulatedEarnings": 3942806,
+      "numberOfEmployees": 13
+    },
+    {
+      "taxJurisdiction": "Slovak Republic",
+      "countryCode": "SK",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 1179245,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 213106,
+      "incomeTaxPaidCashBasis": 842,
+      "incomeTaxAccruedCurrentYear": 36220,
+      "accumulatedEarnings": 567058,
+      "numberOfEmployees": 2
+    },
+    {
+      "taxJurisdiction": "Spain",
+      "countryCode": "ES",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 14004380,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 329346,
+      "incomeTaxPaidCashBasis": 451482,
+      "incomeTaxAccruedCurrentYear": 85916,
+      "accumulatedEarnings": 3348713,
+      "numberOfEmployees": 69
+    },
+    {
+      "taxJurisdiction": "Sweden",
+      "countryCode": "SE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 16537716,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 1543741,
+      "incomeTaxPaidCashBasis": 460819,
+      "incomeTaxAccruedCurrentYear": 236026,
+      "accumulatedEarnings": -925170,
+      "numberOfEmployees": 70
+    },
+    {
+      "taxJurisdiction": "Turkey",
+      "countryCode": "TR",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": 2635347,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": -314059,
+      "incomeTaxPaidCashBasis": 103421,
+      "incomeTaxAccruedCurrentYear": 0,
+      "accumulatedEarnings": 3567136,
+      "numberOfEmployees": 6
+    },
+    {
+      "taxJurisdiction": "Virgin Islands, US",
+      "countryCode": "VI",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": 232379,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 196214,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": 45399,
+      "accumulatedEarnings": 0,
+      "numberOfEmployees": 0
+    }
+  ],
+  "section3": [
+    {
+      "taxJurisdiction": "Austria",
+      "countryCode": "AT",
+      "subsidiaries": [
+        {
+          "name": "John Crane GmbH (Austria Branch)",
+          "activitiesNature": ["Provision of services to unrelated parties", "Sales, Marketing or Distribution"]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Belgium",
+      "countryCode": "BE",
+      "subsidiaries": [
+        {
+          "name": "John Crane Belgium NV",
+          "activitiesNature": ["Provision of services to unrelated parties", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "Smiths Detection Benelux BV (Belgium Branch)",
+          "activitiesNature": ["Provision of services to unrelated parties", "Sales, Marketing or Distribution"]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Czech Republic",
+      "countryCode": "CZ",
+      "subsidiaries": [
+        {
+          "name": "John Crane A.S.",
+          "activitiesNature": ["Administrative, Management or Support Services", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Sales, Marketing or Distribution"]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Denmark",
+      "countryCode": "DK",
+      "subsidiaries": [
+        {
+          "name": "John Crane Sverige AB (Denmark Branch)",
+          "activitiesNature": ["Provision of services to unrelated parties", "Sales, Marketing or Distribution"]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Finland",
+      "countryCode": "FI",
+      "subsidiaries": [
+        {
+          "name": "John Crane Safematic Oy",
+          "activitiesNature": ["Holding or managing intellectual property", "Provision of services to unrelated parties", "Sales, Marketing or Distribution"]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "France",
+      "countryCode": "FR",
+      "subsidiaries": [
+        {
+          "name": "Hypertac S.A.",
+          "activitiesNature": ["Administrative, Management or Support Services", "Dormant", "Holding or managing intellectual property", "Holding shares or other equity instruments", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "John Crane France SAS",
+          "activitiesNature": ["Administrative, Management or Support Services", "Dormant", "Holding or managing intellectual property", "Holding shares or other equity instruments", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "Smiths Detection France SAS",
+          "activitiesNature": ["Administrative, Management or Support Services", "Dormant", "Holding or managing intellectual property", "Holding shares or other equity instruments", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "T I S A (France)",
+          "activitiesNature": ["Administrative, Management or Support Services", "Dormant", "Holding or managing intellectual property", "Holding shares or other equity instruments", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "Thermaflex (French Branch)",
+          "activitiesNature": ["Administrative, Management or Support Services", "Dormant", "Holding or managing intellectual property", "Holding shares or other equity instruments", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "Titeflex Europe SAS",
+          "activitiesNature": ["Administrative, Management or Support Services", "Dormant", "Holding or managing intellectual property", "Holding shares or other equity instruments", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Germany",
+      "countryCode": "DE",
+      "subsidiaries": [
+        {
+          "name": "Flexschlauch Produktions GmbH",
+          "activitiesNature": ["Administrative, Management or Support Services", "Dormant", "Holding or managing intellectual property", "Holding shares or other equity instruments", "Internal group finance", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "Gastite Systems Deutschland GmbH",
+          "activitiesNature": ["Administrative, Management or Support Services", "Dormant", "Holding or managing intellectual property", "Holding shares or other equity instruments", "Internal group finance", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "Herkules Holding GmbH",
+          "activitiesNature": ["Administrative, Management or Support Services", "Dormant", "Holding or managing intellectual property", "Holding shares or other equity instruments", "Internal group finance", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "Hypertac GmbH",
+          "activitiesNature": ["Administrative, Management or Support Services", "Dormant", "Holding or managing intellectual property", "Holding shares or other equity instruments", "Internal group finance", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "John Crane Filtration Technologies GmbH",
+          "activitiesNature": ["Administrative, Management or Support Services", "Dormant", "Holding or managing intellectual property", "Holding shares or other equity instruments", "Internal group finance", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "John Crane GmbH",
+          "activitiesNature": ["Administrative, Management or Support Services", "Dormant", "Holding or managing intellectual property", "Holding shares or other equity instruments", "Internal group finance", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "Seebach GmbH",
+          "activitiesNature": ["Administrative, Management or Support Services", "Dormant", "Holding or managing intellectual property", "Holding shares or other equity instruments", "Internal group finance", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "Smiths Detection Germany GmbH",
+          "activitiesNature": ["Administrative, Management or Support Services", "Dormant", "Holding or managing intellectual property", "Holding shares or other equity instruments", "Internal group finance", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "Smiths Detection GmbH",
+          "activitiesNature": ["Administrative, Management or Support Services", "Dormant", "Holding or managing intellectual property", "Holding shares or other equity instruments", "Internal group finance", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "Zamor KG",
+          "activitiesNature": ["Administrative, Management or Support Services", "Dormant", "Holding or managing intellectual property", "Holding shares or other equity instruments", "Internal group finance", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Greece",
+      "countryCode": "GR",
+      "subsidiaries": [
+        {
+          "name": "John Crane Hellas - Engineered Sealing Systems Monoprosopi EPE",
+          "activitiesNature": ["Provision of services to unrelated parties"]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Hungary",
+      "countryCode": "HU",
+      "subsidiaries": [
+        {
+          "name": "John Crane Hungary Kft",
+          "activitiesNature": ["Provision of services to unrelated parties", "Sales, Marketing or Distribution"]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Ireland",
+      "countryCode": "IE",
+      "subsidiaries": [
+        {
+          "name": "John Crane (Ireland) Limited",
+          "activitiesNature": ["Holding or managing intellectual property", "Manufacturing or Production", "Provision of services to unrelated parties", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "Smiths Detection (Watford) Limited (Irish Branch)",
+          "activitiesNature": ["Holding or managing intellectual property", "Manufacturing or Production", "Provision of services to unrelated parties", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "Smiths Detection Ireland Limited",
+          "activitiesNature": ["Holding or managing intellectual property", "Manufacturing or Production", "Provision of services to unrelated parties", "Sales, Marketing or Distribution"]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Italy",
+      "countryCode": "IT",
+      "subsidiaries": [
+        {
+          "name": "Hypertac SpA",
+          "activitiesNature": ["Administrative, Management or Support Services", "Holding or managing intellectual property", "Holding shares or other equity instruments", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "John Crane Italia SpA",
+          "activitiesNature": ["Administrative, Management or Support Services", "Holding or managing intellectual property", "Holding shares or other equity instruments", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "Smiths Detection Italia SRL",
+          "activitiesNature": ["Administrative, Management or Support Services", "Holding or managing intellectual property", "Holding shares or other equity instruments", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "Smiths Group Italia SRL",
+          "activitiesNature": ["Administrative, Management or Support Services", "Holding or managing intellectual property", "Holding shares or other equity instruments", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Netherlands",
+      "countryCode": "NL",
+      "subsidiaries": [
+        {
+          "name": "Amnitec BV",
+          "activitiesNature": ["Dormant", "Holding or managing intellectual property", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "Indufil BV",
+          "activitiesNature": ["Dormant", "Holding or managing intellectual property", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "John Crane Holland BV",
+          "activitiesNature": ["Dormant", "Holding or managing intellectual property", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "Smiths Detection Benelux BV",
+          "activitiesNature": ["Dormant", "Holding or managing intellectual property", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Research and Development", "Sales, Marketing or Distribution"]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Norway",
+      "countryCode": "NO",
+      "subsidiaries": [
+        {
+          "name": "John Crane Sverige AB (Norway Branch)",
+          "activitiesNature": ["Provision of services to unrelated parties", "Sales, Marketing or Distribution"]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Poland",
+      "countryCode": "PL",
+      "subsidiaries": [
+        {
+          "name": "John Crane Poland SP Z O.O.",
+          "activitiesNature": ["Provision of services to unrelated parties", "Sales, Marketing or Distribution"]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Slovak Republic",
+      "countryCode": "SK",
+      "subsidiaries": [
+        {
+          "name": "John Crane Slovakia SRO",
+          "activitiesNature": ["Provision of services to unrelated parties", "Sales, Marketing or Distribution"]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Spain",
+      "countryCode": "ES",
+      "subsidiaries": [
+        {
+          "name": "John Crane Iberica SA",
+          "activitiesNature": ["Administrative, Management or Support Services", "Provision of services to unrelated parties", "Sales, Marketing or Distribution"]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Sweden",
+      "countryCode": "SE",
+      "subsidiaries": [
+        {
+          "name": "Habia Teknofluor AB",
+          "activitiesNature": ["Holding shares or other equity instruments", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "John Crane Sverige AB",
+          "activitiesNature": ["Holding shares or other equity instruments", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Sales, Marketing or Distribution"]
+        },
+        {
+          "name": "Teknofluor Holding AB",
+          "activitiesNature": ["Holding shares or other equity instruments", "Manufacturing or Production", "Provision of services to unrelated parties", "Purchasing or Procurement", "Sales, Marketing or Distribution"]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Turkey",
+      "countryCode": "TR",
+      "subsidiaries": [
+        {
+          "name": "John Crane Endustriyel Sizdirmazlik Sistemleri Ltd",
+          "activitiesNature": ["Provision of services to unrelated parties", "Sales, Marketing or Distribution"]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Virgin Islands, US",
+      "countryCode": "VI",
+      "subsidiaries": [
+        {
+          "name": "John Crane USA Inc (US Virgin Islands Branch)",
+          "activitiesNature": ["Provision of services to unrelated parties"]
+        }
+      ]
+    }
+  ],
+  "section4": {
+    "hasOmittedInformation": false,
+    "omissionDetails": null,
+    "omissionExpiryYear": null
+  },
+  "section5": {
+    "hasMaterialDiscrepancies": false,
+    "discrepancyExplanation": null
+  },
+  "extractionMetadata": {
+    "sourceUrl": "https://cro.ie/wp-content/uploads/2026/01/Smiths-Group-Plc-26-01-2026.pdf",
+    "sourceType": "pdf",
+    "extractedAt": "2026-03-02T22:00:00Z",
+    "extractionModel": "claude-opus-4-6",
+    "confidenceNotes": "All values clearly stated in tables. Currency is GBP. Revenue breakdown (related/unrelated) not provided in this report - only total revenue per jurisdiction. Note: FY runs Aug 2024 - Jul 2025 (non-calendar year).",
+    "manualReviewStatus": "pending"
+  }
+}

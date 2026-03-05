@@ -1,0 +1,46 @@
+{
+  "id": "eni-s-p-a",
+  "name": "Eni S.p.A.",
+  "registeredOfficeCountry": "IT",
+  "registeredOfficeCity": "Rome",
+  "sector": "Oil & Gas",
+  "regulationBasis": "voluntary",
+  "lei": null,
+  "sources": [
+    {
+      "financialYear": "fy2019",
+      "sourceUrl": "C:/Users/aliso/Downloads/Country-by-Country-2019-ENI.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T15:22:52.945Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2020",
+      "sourceUrl": "C:/Users/aliso/Downloads/Country-by-Country-2020_ENI.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T15:26:22.246Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2021",
+      "sourceUrl": "C:/Users/aliso/Downloads/Country-by-Country-2021-ENI.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T15:28:48.756Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2018",
+      "sourceUrl": "C:/Users/aliso/Downloads/Country-by-Country-2018-eni.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T15:30:59.565Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2017",
+      "sourceUrl": "C:/Users/aliso/Downloads/Country-by-Country-2017-eni.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T20:56:07.054Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    }
+  ]
+}

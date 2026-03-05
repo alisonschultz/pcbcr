@@ -1,0 +1,39 @@
+{
+  "id": "bp-plc",
+  "name": "BP plc",
+  "registeredOfficeCountry": "GB",
+  "registeredOfficeCity": "London",
+  "sector": "Oil & Gas",
+  "regulationBasis": "voluntary",
+  "lei": null,
+  "sources": [
+    {
+      "financialYear": "fy2024",
+      "sourceUrl": "https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/sustainability/group-reports/bp-tax-report-2024.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T12:24:08.282Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2022",
+      "sourceUrl": "https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/sustainability/group-reports/bp-tax-report-2022.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T20:28:07.688Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2021",
+      "sourceUrl": "https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/sustainability/group-reports/bp-tax-report-2021.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T20:31:11.172Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2020",
+      "sourceUrl": "https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/sustainability/group-reports/bp-tax-report-2020.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T20:36:34.039Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    }
+  ]
+}

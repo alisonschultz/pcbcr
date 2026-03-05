@@ -1,0 +1,1402 @@
+{
+  "companyId": "repsol-s-a",
+  "companyName": "Repsol S.A.",
+  "section1": {
+    "ultimateParentName": "Repsol, S.A.",
+    "registeredOfficeCountry": "ES",
+    "financialYearStart": "2023-01-01",
+    "financialYearEnd": "2023-12-31",
+    "reportingCurrency": "EUR",
+    "taxReportingBasis": "consolidated",
+    "basisDescription": "Data is reported according to the OECD's standards (it does not include entities that consolidate by the equity method)"
+  },
+  "section2": [
+    {
+      "taxJurisdiction": "Spain",
+      "countryCode": "ES",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 107013940000,
+      "revenueFromUnrelatedParties": 44177400000,
+      "revenueFromRelatedParties": 62836500000,
+      "profitOrLossBeforeIncomeTax": 2401200000,
+      "incomeTaxPaidCashBasis": 507000000,
+      "incomeTaxAccruedCurrentYear": 104200000,
+      "accumulatedEarnings": 7136600000,
+      "numberOfEmployees": 17733
+    },
+    {
+      "taxJurisdiction": "United States",
+      "countryCode": "US",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 10267600000,
+      "revenueFromUnrelatedParties": 4173200000,
+      "revenueFromRelatedParties": 6094300000,
+      "profitOrLossBeforeIncomeTax": -102500000,
+      "incomeTaxPaidCashBasis": 42700000,
+      "incomeTaxAccruedCurrentYear": -51500000,
+      "accumulatedEarnings": -6829600000,
+      "numberOfEmployees": 707
+    },
+    {
+      "taxJurisdiction": "Peru",
+      "countryCode": "PE",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 7774000000,
+      "revenueFromUnrelatedParties": 4845300000,
+      "revenueFromRelatedParties": 2928700000,
+      "profitOrLossBeforeIncomeTax": 512600000,
+      "incomeTaxPaidCashBasis": 270100000,
+      "incomeTaxAccruedCurrentYear": 156700000,
+      "accumulatedEarnings": -15800000,
+      "numberOfEmployees": 3235
+    },
+    {
+      "taxJurisdiction": "Portugal",
+      "countryCode": "PT",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 3514700000,
+      "revenueFromUnrelatedParties": 2797000000,
+      "revenueFromRelatedParties": 717700000,
+      "profitOrLossBeforeIncomeTax": -363300000,
+      "incomeTaxPaidCashBasis": -700000,
+      "incomeTaxAccruedCurrentYear": -27800000,
+      "accumulatedEarnings": 485300000,
+      "numberOfEmployees": 1423
+    },
+    {
+      "taxJurisdiction": "Singapore",
+      "countryCode": "SG",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 1801700000,
+      "revenueFromUnrelatedParties": 1036200000,
+      "revenueFromRelatedParties": 765500000,
+      "profitOrLossBeforeIncomeTax": -18200000,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": 0,
+      "accumulatedEarnings": -67900000,
+      "numberOfEmployees": 25
+    },
+    {
+      "taxJurisdiction": "Luxembourg",
+      "countryCode": "LU",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 1587600000,
+      "revenueFromUnrelatedParties": 368700000,
+      "revenueFromRelatedParties": 1218900000,
+      "profitOrLossBeforeIncomeTax": 599800000,
+      "incomeTaxPaidCashBasis": 19900000,
+      "incomeTaxAccruedCurrentYear": 146900000,
+      "accumulatedEarnings": -8396000000,
+      "numberOfEmployees": 12
+    },
+    {
+      "taxJurisdiction": "Mexico",
+      "countryCode": "MX",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 1093600000,
+      "revenueFromUnrelatedParties": 1083500000,
+      "revenueFromRelatedParties": 10200000,
+      "profitOrLossBeforeIncomeTax": -50200000,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": 200000,
+      "accumulatedEarnings": -327800000,
+      "numberOfEmployees": 153
+    },
+    {
+      "taxJurisdiction": "Libya",
+      "countryCode": "LY",
+      "jurisdictionType": "non_cooperative_jurisdiction",
+      "revenueTotal": 933900000,
+      "revenueFromUnrelatedParties": 624200000,
+      "revenueFromRelatedParties": 309800000,
+      "profitOrLossBeforeIncomeTax": 818300000,
+      "incomeTaxPaidCashBasis": 557300000,
+      "incomeTaxAccruedCurrentYear": 557400000,
+      "accumulatedEarnings": 0,
+      "numberOfEmployees": 56
+    },
+    {
+      "taxJurisdiction": "Norway",
+      "countryCode": "NO",
+      "jurisdictionType": "eea_state",
+      "revenueTotal": 739800000,
+      "revenueFromUnrelatedParties": 477900000,
+      "revenueFromRelatedParties": 261900000,
+      "profitOrLossBeforeIncomeTax": 324900000,
+      "incomeTaxPaidCashBasis": 413500000,
+      "incomeTaxAccruedCurrentYear": 260700000,
+      "accumulatedEarnings": 15000000,
+      "numberOfEmployees": 203
+    },
+    {
+      "taxJurisdiction": "Canada",
+      "countryCode": "CA",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 639800000,
+      "revenueFromUnrelatedParties": 269300000,
+      "revenueFromRelatedParties": 370500000,
+      "profitOrLossBeforeIncomeTax": 234800000,
+      "incomeTaxPaidCashBasis": -5300000,
+      "incomeTaxAccruedCurrentYear": 178100000,
+      "accumulatedEarnings": -782200000,
+      "numberOfEmployees": 65
+    },
+    {
+      "taxJurisdiction": "Indonesia",
+      "countryCode": "ID",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 431000000,
+      "revenueFromUnrelatedParties": 423700000,
+      "revenueFromRelatedParties": 7300000,
+      "profitOrLossBeforeIncomeTax": 289200000,
+      "incomeTaxPaidCashBasis": 132300000,
+      "incomeTaxAccruedCurrentYear": 141700000,
+      "accumulatedEarnings": 2200000,
+      "numberOfEmployees": 67
+    },
+    {
+      "taxJurisdiction": "Netherlands",
+      "countryCode": "NL",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 253400000,
+      "revenueFromUnrelatedParties": 27700000,
+      "revenueFromRelatedParties": 225700000,
+      "profitOrLossBeforeIncomeTax": -97700000,
+      "incomeTaxPaidCashBasis": 8500000,
+      "incomeTaxAccruedCurrentYear": 27800000,
+      "accumulatedEarnings": 1551600000,
+      "numberOfEmployees": 6
+    },
+    {
+      "taxJurisdiction": "Algeria",
+      "countryCode": "DZ",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 209700000,
+      "revenueFromUnrelatedParties": 116000000,
+      "revenueFromRelatedParties": 93700000,
+      "profitOrLossBeforeIncomeTax": 20200000,
+      "incomeTaxPaidCashBasis": 30200000,
+      "incomeTaxAccruedCurrentYear": 51600000,
+      "accumulatedEarnings": 0,
+      "numberOfEmployees": 56
+    },
+    {
+      "taxJurisdiction": "United Kingdom",
+      "countryCode": "GB",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 198900000,
+      "revenueFromUnrelatedParties": 166100000,
+      "revenueFromRelatedParties": 32800000,
+      "profitOrLossBeforeIncomeTax": 193900000,
+      "incomeTaxPaidCashBasis": -44400000,
+      "incomeTaxAccruedCurrentYear": -113900000,
+      "accumulatedEarnings": -3365500000,
+      "numberOfEmployees": 900
+    },
+    {
+      "taxJurisdiction": "Bolivia",
+      "countryCode": "BO",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 154100000,
+      "revenueFromUnrelatedParties": 144800000,
+      "revenueFromRelatedParties": 9300000,
+      "profitOrLossBeforeIncomeTax": 48000000,
+      "incomeTaxPaidCashBasis": 16600000,
+      "incomeTaxAccruedCurrentYear": 2900000,
+      "accumulatedEarnings": 22600000,
+      "numberOfEmployees": 195
+    },
+    {
+      "taxJurisdiction": "Colombia",
+      "countryCode": "CO",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 148700000,
+      "revenueFromUnrelatedParties": 145800000,
+      "revenueFromRelatedParties": 2900000,
+      "profitOrLossBeforeIncomeTax": -88100000,
+      "incomeTaxPaidCashBasis": 3800000,
+      "incomeTaxAccruedCurrentYear": 40800000,
+      "accumulatedEarnings": -342100000,
+      "numberOfEmployees": 38
+    },
+    {
+      "taxJurisdiction": "Venezuela",
+      "countryCode": "VE",
+      "jurisdictionType": "non_cooperative_jurisdiction",
+      "revenueTotal": 23900000,
+      "revenueFromUnrelatedParties": 12200000,
+      "revenueFromRelatedParties": 11700000,
+      "profitOrLossBeforeIncomeTax": -18200000,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": 1000000,
+      "accumulatedEarnings": 92500000,
+      "numberOfEmployees": 129
+    },
+    {
+      "taxJurisdiction": "France",
+      "countryCode": "FR",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 15900000,
+      "revenueFromUnrelatedParties": 9000000,
+      "revenueFromRelatedParties": 6900000,
+      "profitOrLossBeforeIncomeTax": -100000,
+      "incomeTaxPaidCashBasis": 1200000,
+      "incomeTaxAccruedCurrentYear": 1000000,
+      "accumulatedEarnings": -3200000,
+      "numberOfEmployees": 27
+    },
+    {
+      "taxJurisdiction": "Italy",
+      "countryCode": "IT",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 15500000,
+      "revenueFromUnrelatedParties": 10200000,
+      "revenueFromRelatedParties": 5300000,
+      "profitOrLossBeforeIncomeTax": 100000,
+      "incomeTaxPaidCashBasis": 2800000,
+      "incomeTaxAccruedCurrentYear": 600000,
+      "accumulatedEarnings": 22400000,
+      "numberOfEmployees": 7
+    },
+    {
+      "taxJurisdiction": "Brazil",
+      "countryCode": "BR",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 7300000,
+      "revenueFromUnrelatedParties": 7200000,
+      "revenueFromRelatedParties": 100000,
+      "profitOrLossBeforeIncomeTax": -15200000,
+      "incomeTaxPaidCashBasis": 1500000,
+      "incomeTaxAccruedCurrentYear": 11700000,
+      "accumulatedEarnings": -114100000,
+      "numberOfEmployees": 4
+    },
+    {
+      "taxJurisdiction": "Chile",
+      "countryCode": "CL",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 6700000,
+      "revenueFromUnrelatedParties": 4200000,
+      "revenueFromRelatedParties": 2500000,
+      "profitOrLossBeforeIncomeTax": -9500000,
+      "incomeTaxPaidCashBasis": 600000,
+      "incomeTaxAccruedCurrentYear": 1900000,
+      "accumulatedEarnings": -10100000,
+      "numberOfEmployees": 3
+    },
+    {
+      "taxJurisdiction": "Germany",
+      "countryCode": "DE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 1700000,
+      "revenueFromUnrelatedParties": 100000,
+      "revenueFromRelatedParties": 1600000,
+      "profitOrLossBeforeIncomeTax": 1200000,
+      "incomeTaxPaidCashBasis": 600000,
+      "incomeTaxAccruedCurrentYear": 400000,
+      "accumulatedEarnings": 4800000,
+      "numberOfEmployees": 2
+    },
+    {
+      "taxJurisdiction": "Trinidad and Tobago",
+      "countryCode": "TT",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 1600000,
+      "revenueFromUnrelatedParties": -200000,
+      "revenueFromRelatedParties": 1800000,
+      "profitOrLossBeforeIncomeTax": -2400000,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": 0,
+      "accumulatedEarnings": -100000,
+      "numberOfEmployees": 9
+    },
+    {
+      "taxJurisdiction": "Switzerland",
+      "countryCode": "CH",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 1300000,
+      "revenueFromUnrelatedParties": 100000,
+      "revenueFromRelatedParties": 1100000,
+      "profitOrLossBeforeIncomeTax": 100000,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": 0,
+      "accumulatedEarnings": 700000,
+      "numberOfEmployees": 3
+    },
+    {
+      "taxJurisdiction": "Guyana",
+      "countryCode": "GY",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 700000,
+      "revenueFromUnrelatedParties": 700000,
+      "revenueFromRelatedParties": 0,
+      "profitOrLossBeforeIncomeTax": -1500000,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": 0,
+      "accumulatedEarnings": 0,
+      "numberOfEmployees": 1
+    },
+    {
+      "taxJurisdiction": "Morocco",
+      "countryCode": "MA",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 100000,
+      "revenueFromUnrelatedParties": 0,
+      "revenueFromRelatedParties": 100000,
+      "profitOrLossBeforeIncomeTax": 0,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": 0,
+      "accumulatedEarnings": 0,
+      "numberOfEmployees": 1
+    },
+    {
+      "taxJurisdiction": "East Timor",
+      "countryCode": "TL",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 0,
+      "revenueFromUnrelatedParties": 0,
+      "revenueFromRelatedParties": 0,
+      "profitOrLossBeforeIncomeTax": -6400000,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": 0,
+      "accumulatedEarnings": 0,
+      "numberOfEmployees": 0
+    },
+    {
+      "taxJurisdiction": "Bermuda",
+      "countryCode": "BM",
+      "jurisdictionType": "non_cooperative_jurisdiction",
+      "revenueTotal": 0,
+      "revenueFromUnrelatedParties": 0,
+      "revenueFromRelatedParties": 0,
+      "profitOrLossBeforeIncomeTax": -1900000,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": 0,
+      "accumulatedEarnings": -31500000,
+      "numberOfEmployees": 1
+    },
+    {
+      "taxJurisdiction": "Vietnam",
+      "countryCode": "VN",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 0,
+      "revenueFromUnrelatedParties": 0,
+      "revenueFromRelatedParties": 0,
+      "profitOrLossBeforeIncomeTax": -2300000,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": 0,
+      "accumulatedEarnings": 0,
+      "numberOfEmployees": 0
+    },
+    {
+      "taxJurisdiction": "Australia",
+      "countryCode": "AU",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 0,
+      "revenueFromUnrelatedParties": 0,
+      "revenueFromRelatedParties": 0,
+      "profitOrLossBeforeIncomeTax": -300000,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": 0,
+      "accumulatedEarnings": -226100000,
+      "numberOfEmployees": 0
+    },
+    {
+      "taxJurisdiction": "Iraq",
+      "countryCode": "IQ",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 0,
+      "revenueFromUnrelatedParties": 0,
+      "revenueFromRelatedParties": 0,
+      "profitOrLossBeforeIncomeTax": -500000,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": 0,
+      "accumulatedEarnings": -276500000,
+      "numberOfEmployees": 0
+    },
+    {
+      "taxJurisdiction": "Greece",
+      "countryCode": "GR",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 0,
+      "revenueFromUnrelatedParties": 0,
+      "revenueFromRelatedParties": 0,
+      "profitOrLossBeforeIncomeTax": 0,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": 0,
+      "accumulatedEarnings": 0,
+      "numberOfEmployees": 0
+    },
+    {
+      "taxJurisdiction": "Malaysia",
+      "countryCode": "MY",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 0,
+      "revenueFromUnrelatedParties": 0,
+      "revenueFromRelatedParties": 0,
+      "profitOrLossBeforeIncomeTax": 0,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": 0,
+      "accumulatedEarnings": -15800000,
+      "numberOfEmployees": 0
+    },
+    {
+      "taxJurisdiction": "Russia",
+      "countryCode": "RU",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 0,
+      "revenueFromUnrelatedParties": 0,
+      "revenueFromRelatedParties": 0,
+      "profitOrLossBeforeIncomeTax": 100000,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": 0,
+      "accumulatedEarnings": 0,
+      "numberOfEmployees": 0
+    },
+    {
+      "taxJurisdiction": "Guinea",
+      "countryCode": "GN",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 0,
+      "revenueFromUnrelatedParties": 0,
+      "revenueFromRelatedParties": 0,
+      "profitOrLossBeforeIncomeTax": 0,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": 0,
+      "accumulatedEarnings": 0,
+      "numberOfEmployees": 0
+    }
+  ],
+  "section3": [
+    {
+      "taxJurisdiction": "Spain",
+      "countryCode": "ES",
+      "subsidiaries": [
+        {
+          "name": "Repsol, S.A.",
+          "activitiesNature": [
+            "Holding activity",
+            "Owner of intellectual property",
+            "Corporate services"
+          ]
+        },
+        {
+          "name": "Repsol Petróleo, S.A.",
+          "activitiesNature": [
+            "Manufacturing or Production"
+          ]
+        },
+        {
+          "name": "Repsol Comercial de Productos Petrolíferos, S.A.",
+          "activitiesNature": [
+            "Sales, Marketing or Distribution"
+          ]
+        },
+        {
+          "name": "Repsol Química, S.A.",
+          "activitiesNature": [
+            "Sales, Marketing or Distribution",
+            "Manufacturing and Production"
+          ]
+        },
+        {
+          "name": "Repsol Butano, S.A.",
+          "activitiesNature": [
+            "Sales, Marketing or Distribution"
+          ]
+        },
+        {
+          "name": "Repsol Trading, S.A",
+          "activitiesNature": [
+            "Sales, Marketing or Distribution (trading activity)"
+          ]
+        },
+        {
+          "name": "Repsol Exploración, S.A.U.",
+          "activitiesNature": [
+            "Upstream business",
+            "Holding activity"
+          ]
+        },
+        {
+          "name": "Repsol Tesorería y Gestión Financiera, S.A.",
+          "activitiesNature": [
+            "Financial activity"
+          ]
+        },
+        {
+          "name": "Repsol Comercializadora de Electricidad y Gas. S.L.U.",
+          "activitiesNature": [
+            "Sales, Marketing or Distribution"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "United States",
+      "countryCode": "US",
+      "subsidiaries": [
+        {
+          "name": "Repsol E&P USA, LLC.",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        },
+        {
+          "name": "Repsol Energy North América Corporation",
+          "activitiesNature": [
+            "Sales, Marketing or Distribution"
+          ]
+        },
+        {
+          "name": "Repsol Oil&Gas USA, LLC.",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        },
+        {
+          "name": "Repsol Trading USA, LLC.",
+          "activitiesNature": [
+            "Sales, Marketing or Distribution (trading activity)"
+          ]
+        },
+        {
+          "name": "Repsol Services Company",
+          "activitiesNature": [
+            "Administrative, Management or Support Services"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Peru",
+      "countryCode": "PE",
+      "subsidiaries": [
+        {
+          "name": "Refinería La Pampilla, S.A.A.",
+          "activitiesNature": [
+            "Manufacturing or Production"
+          ]
+        },
+        {
+          "name": "Repsol Comercial S.A.C.",
+          "activitiesNature": [
+            "Sales, Marketing or Distribution"
+          ]
+        },
+        {
+          "name": "Repsol Exploración Peru, S.A.– branch of a Spanish entity",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        },
+        {
+          "name": "Repsol Marketing, S.A.C.",
+          "activitiesNature": [
+            "Sales, Marketing or Distribution"
+          ]
+        },
+        {
+          "name": "Repsol Trading Peru, S.A.C.",
+          "activitiesNature": [
+            "Sales, Marketing or Distribution (trading activity)"
+          ]
+        },
+        {
+          "name": "Lote 56 /Lote 57 /Lote 88",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business – exploratory fields)"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Portugal",
+      "countryCode": "PT",
+      "subsidiaries": [
+        {
+          "name": "Repsol Portuguesa, Lda.",
+          "activitiesNature": [
+            "Sales, Marketing or Distribution"
+          ]
+        },
+        {
+          "name": "Repsol Gas Portugal, Lda.",
+          "activitiesNature": [
+            "Sales, Marketing or Distribution"
+          ]
+        },
+        {
+          "name": "Repsol Directo, Lda.",
+          "activitiesNature": [
+            "Sales, Marketing or Distribution"
+          ]
+        },
+        {
+          "name": "Repsol Polímeros, Lda.",
+          "activitiesNature": [
+            "Manufacturing or Production",
+            "Sales, Marketing or Distribution"
+          ]
+        },
+        {
+          "name": "GESPOST- Gestâo e Administração de Postos de Abastecimento, Unipessoal, Lda.",
+          "activitiesNature": [
+            "Sales, Marketing or Distribution"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Singapore",
+      "countryCode": "SG",
+      "subsidiaries": [
+        {
+          "name": "Repsol Trading Singapore Pte., Ltd.",
+          "activitiesNature": [
+            "Sales, Marketing or Distribution (trading activity)"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Luxembourg",
+      "countryCode": "LU",
+      "subsidiaries": [
+        {
+          "name": "Albatros S.à.r.L.",
+          "activitiesNature": [
+            "Sales, Marketing or Distribution"
+          ]
+        },
+        {
+          "name": "Gaviota RE, S.A.",
+          "activitiesNature": [
+            "Reinsurance"
+          ]
+        },
+        {
+          "name": "FEHI Holding S.à.r.L.",
+          "activitiesNature": [
+            "Holding activity",
+            "Financial activity"
+          ]
+        },
+        {
+          "name": "Repsol Europe Finance, S.à.r.l",
+          "activitiesNature": [
+            "Financial activity"
+          ]
+        },
+        {
+          "name": "Repsol Transgasindo S.à.r.L",
+          "activitiesNature": [
+            "Holding activity"
+          ]
+        },
+        {
+          "name": "Repsol Finance Brasil S.à.r.L",
+          "activitiesNature": [
+            "Financial activity"
+          ]
+        },
+        {
+          "name": "Repsol E&P S.a.r.l.",
+          "activitiesNature": [
+            "Holding activity"
+          ]
+        },
+        {
+          "name": "Tucan LNG S.à r.l.",
+          "activitiesNature": [
+            "Sales, Marketing or Distribution"
+          ]
+        },
+        {
+          "name": "Repsol Financial Trading S.à r.l.",
+          "activitiesNature": [
+            "Financial activity"
+          ]
+        },
+        {
+          "name": "Ovalo S.à r.l.",
+          "activitiesNature": [
+            "Financial activity"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Mexico",
+      "countryCode": "MX",
+      "subsidiaries": [
+        {
+          "name": "Repsol Exploración México, S.A. de C.V.",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        },
+        {
+          "name": "Repsol Services México, S.A. de C.V.",
+          "activitiesNature": [
+            "Administrative, Management or Support Services"
+          ]
+        },
+        {
+          "name": "Repsol Downstream México, S.A. de C.V.",
+          "activitiesNature": [
+            "Sales, Marketing or Distribution"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Libya",
+      "countryCode": "LY",
+      "subsidiaries": [
+        {
+          "name": "Repsol Exploración Murzuq, S.A- NC-115–PE* of a Spanish entity",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        },
+        {
+          "name": "Repsol Exploración Murzuq, S.A–NC-186–PE of a Spanish entity",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Norway",
+      "countryCode": "NO",
+      "subsidiaries": [
+        {
+          "name": "Repsol Norge, A.S.",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        },
+        {
+          "name": "Repsol Perpetual Norge, A.S.",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Canada",
+      "countryCode": "CA",
+      "subsidiaries": [
+        {
+          "name": "Repsol Oil&Gas Canada, Inc",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)",
+            "Holding activity",
+            "Sales, Marketing or Distribution"
+          ]
+        },
+        {
+          "name": "Repsol Canada, Ltd. General Partner",
+          "activitiesNature": [
+            "LNG regasification"
+          ]
+        },
+        {
+          "name": "Saint John LNG Development Company, Ltd.",
+          "activitiesNature": [
+            "Gas investment opportunities"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Indonesia",
+      "countryCode": "ID",
+      "subsidiaries": [
+        {
+          "name": "Repsol Corridor S.A.–PE of a Spanish entity",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        },
+        {
+          "name": "Talisman (Jambi Merang) Ltd.–PE of an UK entity",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        },
+        {
+          "name": "Repsol Andaman B.V.–PE of a Dutch entity",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        },
+        {
+          "name": "Talisman East Jabung B.V.–PE of a Dutch entity",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        },
+        {
+          "name": "Repsol Sakakemang B.V.–PE of a Dutch entity",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Netherlands",
+      "countryCode": "NL",
+      "subsidiaries": [
+        {
+          "name": "Repsol International Finance, B.V.",
+          "activitiesNature": [
+            "Financial activity"
+          ]
+        },
+        {
+          "name": "Repsol Upstream, B.V.",
+          "activitiesNature": [
+            "Holding activity"
+          ]
+        },
+        {
+          "name": "Repsol Finance Brasil B.V.",
+          "activitiesNature": [
+            "Financial activity"
+          ]
+        },
+        {
+          "name": "Repsol Sakakemang, B.V.",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        },
+        {
+          "name": "Repsol Peru, B.V.",
+          "activitiesNature": [
+            "Holding activity"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Algeria",
+      "countryCode": "DZ",
+      "subsidiaries": [
+        {
+          "name": "Repsol Exploración Argelia, S.A. –TFT– PE of a Spanish entity",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        },
+        {
+          "name": "Repsol Exploración Argelia, S.A. –Reggane–PE of a Spanish entity",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        },
+        {
+          "name": "Repsol Exploración Argelia, S.A.–Illizi–branch of a Spanish entity",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        },
+        {
+          "name": "Repsol Exploración 405A, S.A.–PE of a Spanish entity",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "United Kingdom",
+      "countryCode": "GB",
+      "subsidiaries": [
+        {
+          "name": "Repsol Resources UK, Ltd.",
+          "activitiesNature": [
+            "Holding activity",
+            "Manufacturing or Production (Upstream business)"
+          ]
+        },
+        {
+          "name": "Repsol UK, Ltd.",
+          "activitiesNature": [
+            "Administrative, Management or Support Services"
+          ]
+        },
+        {
+          "name": "Paladin Resources Ltd.",
+          "activitiesNature": [
+            "Holding activity"
+          ]
+        },
+        {
+          "name": "Talisman (Jambi Merang), Ltd.",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        },
+        {
+          "name": "Talisman Colombia Holdco Ltd.",
+          "activitiesNature": [
+            "Holding activity"
+          ]
+        },
+        {
+          "name": "LCG Renewables Energies France Limited",
+          "activitiesNature": [
+            "Holding activity"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Bolivia",
+      "countryCode": "BO",
+      "subsidiaries": [
+        {
+          "name": "Repsol Bolivia S.A.",
+          "activitiesNature": [
+            "Holding activity"
+          ]
+        },
+        {
+          "name": "Repsol E&P Bolivia, S.A.",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Colombia",
+      "countryCode": "CO",
+      "subsidiaries": [
+        {
+          "name": "Repsol Exploración Colombia, S.A.–branch of a Spanish entity",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        },
+        {
+          "name": "Repsol Colombia Oil&Gas Ltd.–PE of a Canadian entity",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        },
+        {
+          "name": "Repsol Ductos Colombia, S.A.S.",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        },
+        {
+          "name": "CI Repsol Downstream Colombia, S.A.S.",
+          "activitiesNature": [
+            "Sales, Marketing or Distribution"
+          ]
+        },
+        {
+          "name": "Repsol Servicios Colombia, S.A.–branch of a Spanish entity",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Venezuela",
+      "countryCode": "VE",
+      "subsidiaries": [
+        {
+          "name": "Repsol Venezuela, S.A.",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)",
+            "Administrative, Management or Support Services",
+            "Holding activity"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "France",
+      "countryCode": "FR",
+      "subsidiaries": [
+        {
+          "name": "Repsol Química, S.A.– branch of a Spanish entity",
+          "activitiesNature": [
+            "Commercial and after sales support services"
+          ]
+        },
+        {
+          "name": "Repsol Lubricantes y Especialidades, S.A. – branch of a Spanish entity",
+          "activitiesNature": [
+            "Promotional services"
+          ]
+        },
+        {
+          "name": "Repsol Marketing France, S.A.S.U.",
+          "activitiesNature": [
+            "Promotional services"
+          ]
+        },
+        {
+          "name": "Prejeance Industrial SAS",
+          "activitiesNature": [
+            "Holding activity"
+          ]
+        },
+        {
+          "name": "Corsica Optimum 2 SAS",
+          "activitiesNature": [
+            "Production of electricity"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Italy",
+      "countryCode": "IT",
+      "subsidiaries": [
+        {
+          "name": "Repsol Química, S.A.–PE of a Spanish entity",
+          "activitiesNature": [
+            "Commercial and after sales support services"
+          ]
+        },
+        {
+          "name": "Repsol Renewables Italia S.R.L.",
+          "activitiesNature": [
+            "Analysis and research for opportunities, as well as initial development of greenfield projects"
+          ]
+        },
+        {
+          "name": "Repsol LCG Energies Italia S.r.l.",
+          "activitiesNature": [
+            "Holding activity"
+          ]
+        },
+        {
+          "name": "Repsol Nughedu S.R.L.",
+          "activitiesNature": [
+            "Wind power project"
+          ]
+        },
+        {
+          "name": "Repsol Uta S.R.L.",
+          "activitiesNature": [
+            "Sun power Project"
+          ]
+        },
+        {
+          "name": "Repsol Venosa S.R.L.",
+          "activitiesNature": [
+            "Wind power project"
+          ]
+        },
+        {
+          "name": "Repsol San Mauro S.R.L.",
+          "activitiesNature": [
+            "Wind power project"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Brazil",
+      "countryCode": "BR",
+      "subsidiaries": [
+        {
+          "name": "Repsol Lubrificantes e Especialidades Brasil Participaçoes, Ltda.",
+          "activitiesNature": [
+            "Manufacturing or Production",
+            "Sales, Marketing or Distribution"
+          ]
+        },
+        {
+          "name": "Repsol Exploração Brasil, Ltda.",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)",
+            "Holding activity"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Chile",
+      "countryCode": "CL",
+      "subsidiaries": [
+        {
+          "name": "Repsol Chile, S.p.A.",
+          "activitiesNature": [
+            "Holding activity"
+          ]
+        },
+        {
+          "name": "Eólica de Taltal, S.p.A.",
+          "activitiesNature": [
+            "Holding activity"
+          ]
+        },
+        {
+          "name": "Parque Eólico Antofagasta, S.p.A.",
+          "activitiesNature": [
+            "Production of electricity"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Germany",
+      "countryCode": "DE",
+      "subsidiaries": [
+        {
+          "name": "Repsol Chemie Deutschland, GmbH",
+          "activitiesNature": [
+            "Commercial and after sales support services"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Trinidad and Tobago",
+      "countryCode": "TT",
+      "subsidiaries": [
+        {
+          "name": "Repsol Angostura, Ltd.",
+          "activitiesNature": [
+            "Administrative, Management or Support Services"
+          ]
+        },
+        {
+          "name": "Repsol Exploración Tobago, S.A.––PE of a Spanish entity",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Switzerland",
+      "countryCode": "CH",
+      "subsidiaries": [
+        {
+          "name": "Repsol Exploration Advanced Services, A.G.",
+          "activitiesNature": [
+            "Administrative, Management or Support Services"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Guyana",
+      "countryCode": "GY",
+      "subsidiaries": [
+        {
+          "name": "Repsol Exploración Guyana, S.A.– branch of a Spanish entity",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        },
+        {
+          "name": "Repsol Exploración West Papua IV, S.L.– PE of a Spanish entity",
+          "activitiesNature": [
+            "Manufacturing or Production (Upstream business)"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Morocco",
+      "countryCode": "MA",
+      "subsidiaries": [
+        {
+          "name": "Repsol Exploración, S.A. – branch of a Spanish entity",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        },
+        {
+          "name": "Repsol Exploracion Tanfit, S.A. – branch of a Spanish entity",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        },
+        {
+          "name": "Repsol Lubricantes y Especialidades, S.A. – branch of a Spanish entity",
+          "activitiesNature": [
+            "Promotional services"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "East Timor",
+      "countryCode": "TL",
+      "subsidiaries": [
+        {
+          "name": "Repsol Oil&Gas Australia (JPDA 06-105) Pty Ltd.–PE of a Australian entity",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Bermuda",
+      "countryCode": "BM",
+      "subsidiaries": [
+        {
+          "name": "Greenstone Assurance Ltd.",
+          "activitiesNature": [
+            "Reinsurance (inactive / run-off)"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Vietnam",
+      "countryCode": "VN",
+      "subsidiaries": [
+        {
+          "name": "Talisman (Vietnam 133 & 134) Ltd.– PE of a Dutch entity",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        },
+        {
+          "name": "Talisman Vietnam 07/03 B.V.–PE of a Dutch entity",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        },
+        {
+          "name": "Talisman Vietnam 146-147 B.V.–PE of a Dutch entity",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Australia",
+      "countryCode": "AU",
+      "subsidiaries": [
+        {
+          "name": "Repsol Oil&Gas Australasia Pty Ltd.",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        },
+        {
+          "name": "Repsol Oil&Gas Australia (JPDA 06-105) Pty Ltd.",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        },
+        {
+          "name": "Repsol Oil&Gas Vietnam 07/03 pty. Ltd.",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Iraq",
+      "countryCode": "IQ",
+      "subsidiaries": [
+        {
+          "name": "Talisman (Block K39) B.V.–PE of a Dutch entity",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Greece",
+      "countryCode": "GR",
+      "subsidiaries": [
+        {
+          "name": "Repsol Exploración Ioannina, S.A.– branch of a Spanish entity",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        },
+        {
+          "name": "Repsol Greece Ionian S.L.–branch of a Spanish entity",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Malaysia",
+      "countryCode": "MY",
+      "subsidiaries": [
+        {
+          "name": "Repsol Oil&Gas RTS Sdn. Bhd.",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Russia",
+      "countryCode": "RU",
+      "subsidiaries": [
+        {
+          "name": "Repsol Exploración S.A.- branch of a Spanish entity",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Guinea",
+      "countryCode": "GN",
+      "subsidiaries": [
+        {
+          "name": "Repsol Exploración Guinea, S.A.–Bloque C- branch of a Spanish entity",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        },
+        {
+          "name": "Repsol Exploración Guinea, S.A.–Bloque K- branch of a Spanish entity",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        }
+      ]
+    }
+  ],
+  "section4": {
+    "hasOmittedInformation": false,
+    "omissionDetails": null,
+    "omissionExpiryYear": null
+  },
+  "section5": {
+    "hasMaterialDiscrepancies": false,
+    "discrepancyExplanation": null
+  },
+  "extractionMetadata": {
+    "sourceUrl": "https://www.repsol.com/content/dam/repsol-corporate/en_gb/sostenibilidad/responsible-tax-policy/country-by-country-tax-report-2023.pdf",
+    "sourceType": "pdf",
+    "extractedAt": "2026-03-03T14:29:51.721Z",
+    "extractionModel": "claude-sonnet-4-20250514",
+    "confidenceNotes": null,
+    "manualReviewStatus": "pending"
+  }
+}

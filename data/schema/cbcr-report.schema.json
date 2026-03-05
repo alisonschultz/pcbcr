@@ -1,0 +1,126 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "EU Public CbCR Report",
+  "type": "object",
+  "required": [
+    "companyId",
+    "companyName",
+    "section1",
+    "section2",
+    "section3",
+    "section4",
+    "section5",
+    "extractionMetadata"
+  ],
+  "properties": {
+    "companyId": { "type": "string" },
+    "companyName": { "type": "string" },
+    "section1": {
+      "type": "object",
+      "required": [
+        "ultimateParentName",
+        "registeredOfficeCountry",
+        "financialYearStart",
+        "financialYearEnd",
+        "reportingCurrency",
+        "taxReportingBasis"
+      ],
+      "properties": {
+        "ultimateParentName": { "type": "string" },
+        "registeredOfficeCountry": { "type": "string", "minLength": 2, "maxLength": 2 },
+        "financialYearStart": { "type": "string", "format": "date" },
+        "financialYearEnd": { "type": "string", "format": "date" },
+        "reportingCurrency": { "type": "string", "minLength": 3, "maxLength": 3 },
+        "taxReportingBasis": { "type": "string" },
+        "basisDescription": { "type": ["string", "null"] }
+      }
+    },
+    "section2": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["taxJurisdiction", "countryCode", "jurisdictionType"],
+        "properties": {
+          "taxJurisdiction": { "type": "string" },
+          "countryCode": { "type": "string" },
+          "jurisdictionType": {
+            "type": "string",
+            "enum": [
+              "eu_member_state",
+              "eea_state",
+              "non_cooperative_jurisdiction",
+              "grey_listed_jurisdiction",
+              "aggregated_other"
+            ]
+          },
+          "revenueTotal": { "type": ["number", "null"] },
+          "revenueFromUnrelatedParties": { "type": ["number", "null"] },
+          "revenueFromRelatedParties": { "type": ["number", "null"] },
+          "profitOrLossBeforeIncomeTax": { "type": ["number", "null"] },
+          "incomeTaxPaidCashBasis": { "type": ["number", "null"] },
+          "incomeTaxAccruedCurrentYear": { "type": ["number", "null"] },
+          "accumulatedEarnings": { "type": ["number", "null"] },
+          "numberOfEmployees": { "type": ["number", "null"] }
+        }
+      }
+    },
+    "section3": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["taxJurisdiction", "countryCode", "subsidiaries"],
+        "properties": {
+          "taxJurisdiction": { "type": "string" },
+          "countryCode": { "type": "string" },
+          "subsidiaries": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["name", "activitiesNature"],
+              "properties": {
+                "name": { "type": "string" },
+                "activitiesNature": {
+                  "type": "array",
+                  "items": { "type": "string" }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "section4": {
+      "type": "object",
+      "required": ["hasOmittedInformation"],
+      "properties": {
+        "hasOmittedInformation": { "type": "boolean" },
+        "omissionDetails": { "type": ["string", "null"] },
+        "omissionExpiryYear": { "type": ["number", "null"] }
+      }
+    },
+    "section5": {
+      "type": "object",
+      "required": ["hasMaterialDiscrepancies"],
+      "properties": {
+        "hasMaterialDiscrepancies": { "type": "boolean" },
+        "discrepancyExplanation": { "type": ["string", "null"] }
+      }
+    },
+    "extractionMetadata": {
+      "type": "object",
+      "required": ["sourceUrl", "sourceType", "extractedAt", "extractionModel", "manualReviewStatus"],
+      "properties": {
+        "sourceUrl": { "type": "string", "format": "uri" },
+        "sourceType": { "type": "string", "enum": ["pdf", "xhtml", "other"] },
+        "extractedAt": { "type": "string", "format": "date-time" },
+        "extractionModel": { "type": "string" },
+        "confidenceNotes": { "type": ["string", "null"] },
+        "manualReviewStatus": {
+          "type": "string",
+          "enum": ["pending", "reviewed", "verified"]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "companyId": "allianz-se",
+  "companyName": "Allianz SE",
+  "section1": {
+    "ultimateParentName": "Allianz SE",
+    "registeredOfficeCountry": "DE",
+    "financialYearStart": "2021-01-01",
+    "financialYearEnd": "2021-12-31",
+    "reportingCurrency": "EUR",
+    "taxReportingBasis": "consolidated",
+    "basisDescription": "IFRS consolidated figures without intercompany profit/loss/reinsurance elimination"
+  },
+  "section2": [
+    {
+      "taxJurisdiction": "Germany",
+      "countryCode": "DE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 54357000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 2128500000,
+      "incomeTaxPaidCashBasis": 735700000,
+      "incomeTaxAccruedCurrentYear": 513500000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 46081
+    },
+    {
+      "taxJurisdiction": "United States",
+      "countryCode": "US",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": 18415900000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 883800000,
+      "incomeTaxPaidCashBasis": 980400000,
+      "incomeTaxAccruedCurrentYear": 1648700000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 7926
+    },
+    {
+      "taxJurisdiction": "France",
+      "countryCode": "FR",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 14235800000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 753100000,
+      "incomeTaxPaidCashBasis": 203200000,
+      "incomeTaxAccruedCurrentYear": 184300000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 26239
+    },
+    {
+      "taxJurisdiction": "Italy",
+      "countryCode": "IT",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 6365000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 810000000,
+      "incomeTaxPaidCashBasis": 245800000,
+      "incomeTaxAccruedCurrentYear": 218100000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 4876
+    },
+    {
+      "taxJurisdiction": "Ireland",
+      "countryCode": "IE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 5041400000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 361700000,
+      "incomeTaxPaidCashBasis": 60500000,
+      "incomeTaxAccruedCurrentYear": 62800000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 854
+    },
+    {
+      "taxJurisdiction": "Switzerland",
+      "countryCode": "CH",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": 3804900000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 673300000,
+      "incomeTaxPaidCashBasis": 77500000,
+      "incomeTaxAccruedCurrentYear": 110800000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 2824
+    },
+    {
+      "taxJurisdiction": "United Kingdom",
+      "countryCode": "GB",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": 3608200000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 149100000,
+      "incomeTaxPaidCashBasis": 21600000,
+      "incomeTaxAccruedCurrentYear": 26900000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 8541
+    },
+    {
+      "taxJurisdiction": "Australia",
+      "countryCode": "AU",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": 3474400000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 222800000,
+      "incomeTaxPaidCashBasis": -11400000,
+      "incomeTaxAccruedCurrentYear": 127700000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 5379
+    },
+    {
+      "taxJurisdiction": "Spain",
+      "countryCode": "ES",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 2599100000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 173300000,
+      "incomeTaxPaidCashBasis": 59200000,
+      "incomeTaxAccruedCurrentYear": 45600000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 3666
+    },
+    {
+      "taxJurisdiction": "Netherlands",
+      "countryCode": "NL",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 1982200000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 386200000,
+      "incomeTaxPaidCashBasis": 61100000,
+      "incomeTaxAccruedCurrentYear": 66200000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 2083
+    },
+    {
+      "taxJurisdiction": "Austria",
+      "countryCode": "AT",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 1741700000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 169800000,
+      "incomeTaxPaidCashBasis": 74600000,
+      "incomeTaxAccruedCurrentYear": 49500000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 2920
+    },
+    {
+      "taxJurisdiction": "Luxembourg",
+      "countryCode": "LU",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 1614400000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 975200000,
+      "incomeTaxPaidCashBasis": 96300000,
+      "incomeTaxAccruedCurrentYear": 146100000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 89
+    }
+  ],
+  "section3": [
+    {
+      "taxJurisdiction": "Germany",
+      "countryCode": "DE",
+      "subsidiaries": [
+        {
+          "name": "Allianz Lebensversicherungs-AG",
+          "activitiesNature": [
+            "Life insurance"
+          ]
+        },
+        {
+          "name": "Allianz Private Krankenversicherungs-AG",
+          "activitiesNature": [
+            "Health insurance"
+          ]
+        },
+        {
+          "name": "Allianz Versicherungs-AG",
+          "activitiesNature": [
+            "Property & casualty insurance"
+          ]
+        },
+        {
+          "name": "Allianz Beratungs-und Vertriebs-AG",
+          "activitiesNature": [
+            "Insurance brokerage and advisory services"
+          ]
+        },
+        {
+          "name": "Allianz Global Corporate & Specialty SE",
+          "activitiesNature": [
+            "Commercial insurance"
+          ]
+        },
+        {
+          "name": "PIMCO Europe GmbH",
+          "activitiesNature": [
+            "Asset management"
+          ]
+        },
+        {
+          "name": "Allianz Global Investors GmbH",
+          "activitiesNature": [
+            "Asset management"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "United States",
+      "countryCode": "US",
+      "subsidiaries": [
+        {
+          "name": "Pacific Investment Management Company LLC",
+          "activitiesNature": [
+            "Asset management"
+          ]
+        },
+        {
+          "name": "Allianz Global Risks US Insurance Company Corp.",
+          "activitiesNature": [
+            "Commercial insurance"
+          ]
+        },
+        {
+          "name": "Allianz Global Investors U.S. LLC",
+          "activitiesNature": [
+            "Asset management"
+          ]
+        },
+        {
+          "name": "Allianz Life Insurance Company of North America",
+          "activitiesNature": [
+            "Life insurance"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "France",
+      "countryCode": "FR",
+      "subsidiaries": [
+        {
+          "name": "Allianz Vie S.A.",
+          "activitiesNature": [
+            "Life insurance"
+          ]
+        },
+        {
+          "name": "Allianz IARD S.A.",
+          "activitiesNature": [
+            "Property & casualty insurance"
+          ]
+        },
+        {
+          "name": "Allianz Partners S.A.S.",
+          "activitiesNature": [
+            "Travel and assistance insurance"
+          ]
+        },
+        {
+          "name": "Euler Hermes Group SAS",
+          "activitiesNature": [
+            "Credit insurance"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Italy",
+      "countryCode": "IT",
+      "subsidiaries": [
+        {
+          "name": "Allianz S.p.A.",
+          "activitiesNature": [
+            "Insurance"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Ireland",
+      "countryCode": "IE",
+      "subsidiaries": [
+        {
+          "name": "Allianz p.l.c.",
+          "activitiesNature": [
+            "Insurance"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Switzerland",
+      "countryCode": "CH",
+      "subsidiaries": [
+        {
+          "name": "Allianz Suisse Versicherungs-Gesellschaft AG",
+          "activitiesNature": [
+            "Property & casualty insurance"
+          ]
+        },
+        {
+          "name": "Allianz Suisse Lebensversicherungs-Gesellschaft AG",
+          "activitiesNature": [
+            "Life insurance"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "United Kingdom",
+      "countryCode": "GB",
+      "subsidiaries": [
+        {
+          "name": "Allianz Insurance plc",
+          "activitiesNature": [
+            "Property & casualty insurance"
+          ]
+        },
+        {
+          "name": "Liverpool Victoria Insurance Company Limited",
+          "activitiesNature": [
+            "Insurance"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Australia",
+      "countryCode": "AU",
+      "subsidiaries": [
+        {
+          "name": "Allianz Australia Limited",
+          "activitiesNature": [
+            "Insurance"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Spain",
+      "countryCode": "ES",
+      "subsidiaries": [
+        {
+          "name": "Allianz Compañía de Seguros y Reaseguros S.A.",
+          "activitiesNature": [
+            "Insurance and reinsurance"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Austria",
+      "countryCode": "AT",
+      "subsidiaries": [
+        {
+          "name": "Allianz Elementar Versicherungs-AG",
+          "activitiesNature": [
+            "Property & casualty insurance"
+          ]
+        },
+        {
+          "name": "Allianz Elementar Lebensversicherungs-AG",
+          "activitiesNature": [
+            "Life insurance"
+          ]
+        }
+      ]
+    }
+  ],
+  "section4": {
+    "hasOmittedInformation": false,
+    "omissionDetails": null,
+    "omissionExpiryYear": null
+  },
+  "section5": {
+    "hasMaterialDiscrepancies": false,
+    "discrepancyExplanation": null
+  },
+  "extractionMetadata": {
+    "sourceUrl": "C:/Users/aliso/Downloads/Allianz_Tax_Transparency_Report_2021.pdf",
+    "sourceType": "pdf",
+    "extractedAt": "2026-03-03T15:05:30.095Z",
+    "extractionModel": "claude-sonnet-4-20250514",
+    "confidenceNotes": null,
+    "manualReviewStatus": "pending"
+  }
+}

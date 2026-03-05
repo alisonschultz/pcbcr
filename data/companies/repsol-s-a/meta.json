@@ -1,0 +1,25 @@
+{
+  "id": "repsol-s-a",
+  "name": "Repsol S.A.",
+  "registeredOfficeCountry": "ES",
+  "registeredOfficeCity": "Madrid",
+  "sector": "Oil & Gas",
+  "regulationBasis": "voluntary",
+  "lei": null,
+  "sources": [
+    {
+      "financialYear": "fy2024",
+      "sourceUrl": "https://www.repsol.com/content/dam/repsol-corporate/en_gb/sostenibilidad/responsible-tax-policy/2024-country-by-country-tax-report.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T10:59:10.024Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2023",
+      "sourceUrl": "https://www.repsol.com/content/dam/repsol-corporate/en_gb/sostenibilidad/responsible-tax-policy/country-by-country-tax-report-2023.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T14:29:51.750Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+name: Extract CbCR Report
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  extract:
+    if: github.event.label.name == 'cbcr-submission'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Parse issue body
+        id: parse
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = context.payload.issue.body;
+            const fields = {};
+            const patterns = {
+              company_name: /### Company Name\s*\n\s*(.+)/,
+              report_url: /### Report URL\s*\n\s*(.+)/,
+              financial_year: /### Financial Year\s*\n\s*(.+)/,
+              country: /### Country of Registration\s*\n\s*(.+)/,
+            };
+            for (const [key, pattern] of Object.entries(patterns)) {
+              const match = body.match(pattern);
+              fields[key] = match ? match[1].trim() : '';
+            }
+            core.setOutput('company_name', fields.company_name);
+            core.setOutput('report_url', fields.report_url);
+            core.setOutput('financial_year', fields.financial_year);
+            core.setOutput('country', fields.country);
+
+      - name: Extract report data
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          npx tsx scripts/extract-pdf.ts \
+            --url "${{ steps.parse.outputs.report_url }}" \
+            --company "${{ steps.parse.outputs.company_name }}" \
+            --fy "${{ steps.parse.outputs.financial_year }}" \
+            --country "${{ steps.parse.outputs.country }}"
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "data: add ${{ steps.parse.outputs.company_name }} FY${{ steps.parse.outputs.financial_year }}"
+          title: "Add CbCR data: ${{ steps.parse.outputs.company_name }} FY${{ steps.parse.outputs.financial_year }}"
+          body: |
+            ## Summary
+            - Extracted CbCR data from: ${{ steps.parse.outputs.report_url }}
+            - Company: ${{ steps.parse.outputs.company_name }}
+            - Financial Year: ${{ steps.parse.outputs.financial_year }}
+            - Triggered by: #${{ github.event.issue.number }}
+
+            ## Review checklist
+            - [ ] Revenue figures match source document
+            - [ ] Tax figures match source document
+            - [ ] Employee counts are reasonable
+            - [ ] All jurisdictions have been captured
+            - [ ] Subsidiary names are correct
+
+            > Please review the extracted data against the original report before merging.
+          branch: "data/cbcr-${{ steps.parse.outputs.financial_year }}-${{ github.event.issue.number }}"
+          labels: "data-extraction"
+
+      - name: Comment on issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `Data extraction complete! A pull request has been created with the extracted data.\n\nPlease review the PR to verify the data accuracy before merging.`
+            });

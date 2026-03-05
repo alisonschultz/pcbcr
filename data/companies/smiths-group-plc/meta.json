@@ -1,0 +1,18 @@
+{
+  "id": "smiths-group-plc",
+  "name": "Smiths Group Plc",
+  "registeredOfficeCountry": "GB",
+  "registeredOfficeCity": "London",
+  "sector": "Industrial",
+  "regulationBasis": "eu_directive_2021_2101",
+  "lei": null,
+  "sources": [
+    {
+      "financialYear": "fy2025",
+      "sourceUrl": "https://cro.ie/wp-content/uploads/2026/01/Smiths-Group-Plc-26-01-2026.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-02T22:00:00Z",
+      "extractionModel": "claude-opus-4-6"
+    }
+  ]
+}

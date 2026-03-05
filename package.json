@@ -1,0 +1,36 @@
+{
+  "name": "pcbcr",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "tsx scripts/build-csv.ts && next build",
+    "build-csv": "tsx scripts/build-csv.ts",
+    "start": "next start",
+    "lint": "next lint",
+    "extract": "tsx scripts/extract-pdf.ts",
+    "validate": "tsx scripts/validate-data.ts",
+    "build-index": "tsx scripts/build-index.ts"
+  },
+  "dependencies": {
+    "next": "^15.3.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "@tailwindcss/postcss": "^4.2.1",
+    "@tailwindcss/typography": "^0.5.19",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "ajv": "^8.17.0",
+    "ajv-formats": "^3.0.1",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^15.3.0",
+    "postcss": "^8.5.0",
+    "tailwindcss": "^4.1.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0"
+  }
+}

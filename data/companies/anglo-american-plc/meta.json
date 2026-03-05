@@ -1,0 +1,25 @@
+{
+  "id": "anglo-american-plc",
+  "name": "Anglo American plc",
+  "registeredOfficeCountry": "GB",
+  "registeredOfficeCity": "London",
+  "sector": "Mining",
+  "regulationBasis": "voluntary",
+  "lei": null,
+  "sources": [
+    {
+      "financialYear": "fy2024",
+      "sourceUrl": "https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group-v9/PLC/investors/annual-reporting/2025/anglo-american-country-by-country-report-2024.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T12:07:42.949Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2023",
+      "sourceUrl": "https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group-v9/PLC/investors/annual-reporting/2024/anglo-american-country-by-country-report-2023.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T14:33:05.662Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    }
+  ]
+}

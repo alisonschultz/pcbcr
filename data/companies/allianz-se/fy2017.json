@@ -1,0 +1,137 @@
+{
+  "companyId": "allianz-se",
+  "companyName": "Allianz SE",
+  "section1": {
+    "ultimateParentName": "Allianz SE",
+    "registeredOfficeCountry": "DE",
+    "financialYearStart": "2017-01-01",
+    "financialYearEnd": "2017-12-31",
+    "reportingCurrency": "EUR",
+    "taxReportingBasis": "consolidated",
+    "basisDescription": null
+  },
+  "section2": [
+    {
+      "taxJurisdiction": "Germany",
+      "countryCode": "DE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": null,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 1842300000,
+      "incomeTaxPaidCashBasis": -141006000,
+      "incomeTaxAccruedCurrentYear": 512900000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": null
+    },
+    {
+      "taxJurisdiction": "United States",
+      "countryCode": "US",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": null,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 2478100000,
+      "incomeTaxPaidCashBasis": 442309000,
+      "incomeTaxAccruedCurrentYear": 811000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": null
+    },
+    {
+      "taxJurisdiction": "France",
+      "countryCode": "FR",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": null,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 1266100000,
+      "incomeTaxPaidCashBasis": 402381000,
+      "incomeTaxAccruedCurrentYear": 498800000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": null
+    },
+    {
+      "taxJurisdiction": "Italy",
+      "countryCode": "IT",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": null,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 1334300000,
+      "incomeTaxPaidCashBasis": 431383000,
+      "incomeTaxAccruedCurrentYear": 342200000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": null
+    },
+    {
+      "taxJurisdiction": "Switzerland",
+      "countryCode": "CH",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": null,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 494200000,
+      "incomeTaxPaidCashBasis": 70536000,
+      "incomeTaxAccruedCurrentYear": 76200000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": null
+    },
+    {
+      "taxJurisdiction": "Spain",
+      "countryCode": "ES",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": null,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 413200000,
+      "incomeTaxPaidCashBasis": 88278000,
+      "incomeTaxAccruedCurrentYear": 97700000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": null
+    },
+    {
+      "taxJurisdiction": "Belgium",
+      "countryCode": "BE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": null,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 240800000,
+      "incomeTaxPaidCashBasis": 42901000,
+      "incomeTaxAccruedCurrentYear": 48000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": null
+    },
+    {
+      "taxJurisdiction": "Other",
+      "countryCode": "OTHER",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": null,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 2079100000,
+      "incomeTaxPaidCashBasis": 762218000,
+      "incomeTaxAccruedCurrentYear": 553900000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": null
+    }
+  ],
+  "section3": [],
+  "section4": {
+    "hasOmittedInformation": false,
+    "omissionDetails": null,
+    "omissionExpiryYear": null
+  },
+  "section5": {
+    "hasMaterialDiscrepancies": false,
+    "discrepancyExplanation": null
+  },
+  "extractionMetadata": {
+    "sourceUrl": "C:/Users/aliso/Downloads/Allianz_Tax_Transparency_Report_2017-EN.pdf",
+    "sourceType": "pdf",
+    "extractedAt": "2026-03-03T15:19:41.741Z",
+    "extractionModel": "claude-sonnet-4-20250514",
+    "confidenceNotes": null,
+    "manualReviewStatus": "pending"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "inter-ikea-group",
+  "name": "Inter IKEA Group",
+  "registeredOfficeCountry": "NL",
+  "registeredOfficeCity": "Delft",
+  "sector": "Retail / Franchise",
+  "regulationBasis": "voluntary",
+  "lei": null,
+  "sources": [
+    {
+      "financialYear": "fy2025",
+      "sourceUrl": "https://www.inter.ikea.com/en/how-we-do-business/our-approach-to-tax/country-by-country-report",
+      "sourceType": "other",
+      "extractedAt": "2026-03-03T12:00:00Z",
+      "extractionModel": "claude-opus-4-6"
+    }
+  ]
+}

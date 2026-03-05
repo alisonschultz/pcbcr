@@ -1,0 +1,60 @@
+{
+  "id": "allianz-se",
+  "name": "Allianz SE",
+  "registeredOfficeCountry": "DE",
+  "registeredOfficeCity": "Munich",
+  "sector": "Insurance / Financial Services",
+  "regulationBasis": "voluntary",
+  "lei": null,
+  "sources": [
+    {
+      "financialYear": "fy2024",
+      "sourceUrl": "C:/Users/aliso/Downloads/AllianzCbCR24.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T14:23:30.757Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2022",
+      "sourceUrl": "C:/Users/aliso/Downloads/Allianz_Country_by_Country_Reporting_2022.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T14:36:49.472Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2021",
+      "sourceUrl": "C:/Users/aliso/Downloads/Allianz_Tax_Transparency_Report_2021.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T15:05:30.109Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2020",
+      "sourceUrl": "C:/Users/aliso/Downloads/Allianz_Tax_Transparency_Report_2020.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T15:06:36.484Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2019",
+      "sourceUrl": "C:/Users/aliso/Downloads/Allianz_Tax_Transparency_Report_2019-EN.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T15:18:18.677Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2017",
+      "sourceUrl": "C:/Users/aliso/Downloads/Allianz_Tax_Transparency_Report_2017-EN.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T15:19:41.750Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2018",
+      "sourceUrl": "C:/Users/aliso/Downloads/Allianz_Tax_Transparency_Report_2018-EN.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T20:53:18.474Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    }
+  ]
+}

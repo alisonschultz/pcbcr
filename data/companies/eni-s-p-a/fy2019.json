@@ -1,0 +1,960 @@
+{
+  "companyId": "eni-s-p-a",
+  "companyName": "Eni S.p.A.",
+  "section1": {
+    "ultimateParentName": "Eni SpA",
+    "registeredOfficeCountry": "IT",
+    "financialYearStart": "2019-01-01",
+    "financialYearEnd": "2019-12-31",
+    "reportingCurrency": "EUR",
+    "taxReportingBasis": "consolidated",
+    "basisDescription": "OECD Country-by-Country Report based on consolidated financial statements prepared under IFRS"
+  },
+  "section2": [
+    {
+      "taxJurisdiction": "Italy",
+      "countryCode": "IT",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 40193668000,
+      "revenueFromUnrelatedParties": 26460043000,
+      "revenueFromRelatedParties": 13733625000,
+      "profitOrLossBeforeIncomeTax": -3472729000,
+      "incomeTaxPaidCashBasis": 57810000,
+      "incomeTaxAccruedCurrentYear": 63539000,
+      "accumulatedEarnings": 26346292000,
+      "numberOfEmployees": 21558
+    },
+    {
+      "taxJurisdiction": "Austria",
+      "countryCode": "AT",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 1235782000,
+      "revenueFromUnrelatedParties": 861123000,
+      "revenueFromRelatedParties": 374659000,
+      "profitOrLossBeforeIncomeTax": 42256000,
+      "incomeTaxPaidCashBasis": 9140000,
+      "incomeTaxAccruedCurrentYear": 7302000,
+      "accumulatedEarnings": 86950000,
+      "numberOfEmployees": 129
+    },
+    {
+      "taxJurisdiction": "Belgium",
+      "countryCode": "BE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 1634416000,
+      "revenueFromUnrelatedParties": 601440000,
+      "revenueFromRelatedParties": 1032976000,
+      "profitOrLossBeforeIncomeTax": 296941000,
+      "incomeTaxPaidCashBasis": 93455000,
+      "incomeTaxAccruedCurrentYear": 127080000,
+      "accumulatedEarnings": 116598000,
+      "numberOfEmployees": 236
+    },
+    {
+      "taxJurisdiction": "Cyprus",
+      "countryCode": "CY",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 7799000,
+      "revenueFromUnrelatedParties": 7796000,
+      "revenueFromRelatedParties": 3000,
+      "profitOrLossBeforeIncomeTax": -8576000,
+      "incomeTaxPaidCashBasis": null,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": -307041000,
+      "numberOfEmployees": 34
+    },
+    {
+      "taxJurisdiction": "Czech Republic",
+      "countryCode": "CZ",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 5929000,
+      "revenueFromUnrelatedParties": 5929000,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": -274000,
+      "incomeTaxPaidCashBasis": 88000,
+      "incomeTaxAccruedCurrentYear": 93000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 15
+    },
+    {
+      "taxJurisdiction": "Denmark",
+      "countryCode": "DK",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 642000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": 642000,
+      "profitOrLossBeforeIncomeTax": 278000,
+      "incomeTaxPaidCashBasis": 60000,
+      "incomeTaxAccruedCurrentYear": 61000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 2
+    },
+    {
+      "taxJurisdiction": "France",
+      "countryCode": "FR",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 4189125000,
+      "revenueFromUnrelatedParties": 3362745000,
+      "revenueFromRelatedParties": 826380000,
+      "profitOrLossBeforeIncomeTax": 21251000,
+      "incomeTaxPaidCashBasis": 7345000,
+      "incomeTaxAccruedCurrentYear": 13181000,
+      "accumulatedEarnings": 1846000,
+      "numberOfEmployees": 760
+    },
+    {
+      "taxJurisdiction": "Germany",
+      "countryCode": "DE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 2134506000,
+      "revenueFromUnrelatedParties": 1867861000,
+      "revenueFromRelatedParties": 266645000,
+      "profitOrLossBeforeIncomeTax": 58052000,
+      "incomeTaxPaidCashBasis": 37876000,
+      "incomeTaxAccruedCurrentYear": 19811000,
+      "accumulatedEarnings": 45583000,
+      "numberOfEmployees": 534
+    },
+    {
+      "taxJurisdiction": "Greece",
+      "countryCode": "GR",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 242206000,
+      "revenueFromUnrelatedParties": 702000,
+      "revenueFromRelatedParties": 241504000,
+      "profitOrLossBeforeIncomeTax": 13037000,
+      "incomeTaxPaidCashBasis": 3003000,
+      "incomeTaxAccruedCurrentYear": 3343000,
+      "accumulatedEarnings": 9211000,
+      "numberOfEmployees": 102
+    },
+    {
+      "taxJurisdiction": "Hungary",
+      "countryCode": "HU",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 152386000,
+      "revenueFromUnrelatedParties": 146065000,
+      "revenueFromRelatedParties": 6321000,
+      "profitOrLossBeforeIncomeTax": -9314000,
+      "incomeTaxPaidCashBasis": 55000,
+      "incomeTaxAccruedCurrentYear": 44000,
+      "accumulatedEarnings": -15997000,
+      "numberOfEmployees": 159
+    },
+    {
+      "taxJurisdiction": "Ireland",
+      "countryCode": "IE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 97163000,
+      "revenueFromUnrelatedParties": 10808000,
+      "revenueFromRelatedParties": 86355000,
+      "profitOrLossBeforeIncomeTax": 72594000,
+      "incomeTaxPaidCashBasis": 14970000,
+      "incomeTaxAccruedCurrentYear": 9348000,
+      "accumulatedEarnings": 83947000,
+      "numberOfEmployees": 16
+    },
+    {
+      "taxJurisdiction": "Netherlands",
+      "countryCode": "NL",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 1475355000,
+      "revenueFromUnrelatedParties": 1432337000,
+      "revenueFromRelatedParties": 43018000,
+      "profitOrLossBeforeIncomeTax": -271851000,
+      "incomeTaxPaidCashBasis": 10120000,
+      "incomeTaxAccruedCurrentYear": 10388000,
+      "accumulatedEarnings": 12847815000,
+      "numberOfEmployees": 68
+    },
+    {
+      "taxJurisdiction": "Poland",
+      "countryCode": "PL",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 3220000,
+      "revenueFromUnrelatedParties": 1948000,
+      "revenueFromRelatedParties": 1272000,
+      "profitOrLossBeforeIncomeTax": 766000,
+      "incomeTaxPaidCashBasis": 179000,
+      "incomeTaxAccruedCurrentYear": 4000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 5
+    },
+    {
+      "taxJurisdiction": "Portugal",
+      "countryCode": "PT",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 3406000,
+      "revenueFromUnrelatedParties": 78000,
+      "revenueFromRelatedParties": 3328000,
+      "profitOrLossBeforeIncomeTax": -1833000,
+      "incomeTaxPaidCashBasis": null,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": null
+    },
+    {
+      "taxJurisdiction": "Romania",
+      "countryCode": "RO",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 2364000,
+      "revenueFromUnrelatedParties": 1998000,
+      "revenueFromRelatedParties": 366000,
+      "profitOrLossBeforeIncomeTax": 36000,
+      "incomeTaxPaidCashBasis": 59000,
+      "incomeTaxAccruedCurrentYear": 47000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 12
+    },
+    {
+      "taxJurisdiction": "Slovakia",
+      "countryCode": "SK",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 978000,
+      "revenueFromUnrelatedParties": 978000,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": -233000,
+      "incomeTaxPaidCashBasis": 4000,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 5
+    },
+    {
+      "taxJurisdiction": "Slovenia",
+      "countryCode": "SI",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 39971000,
+      "revenueFromUnrelatedParties": 39971000,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 4179000,
+      "incomeTaxPaidCashBasis": 607000,
+      "incomeTaxAccruedCurrentYear": 646000,
+      "accumulatedEarnings": 16764000,
+      "numberOfEmployees": 36
+    },
+    {
+      "taxJurisdiction": "Spain",
+      "countryCode": "ES",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 398358000,
+      "revenueFromUnrelatedParties": 380694000,
+      "revenueFromRelatedParties": 17664000,
+      "profitOrLossBeforeIncomeTax": 2547000,
+      "incomeTaxPaidCashBasis": 710000,
+      "incomeTaxAccruedCurrentYear": 626000,
+      "accumulatedEarnings": 1492000,
+      "numberOfEmployees": 98
+    },
+    {
+      "taxJurisdiction": "Sweden",
+      "countryCode": "SE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 1901000,
+      "revenueFromUnrelatedParties": 1541000,
+      "revenueFromRelatedParties": 360000,
+      "profitOrLossBeforeIncomeTax": 349000,
+      "incomeTaxPaidCashBasis": 96000,
+      "incomeTaxAccruedCurrentYear": 76000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 1
+    },
+    {
+      "taxJurisdiction": "United Kingdom",
+      "countryCode": "GB",
+      "jurisdictionType": "eea_state",
+      "revenueTotal": 30876578000,
+      "revenueFromUnrelatedParties": 17796511000,
+      "revenueFromRelatedParties": 13080067000,
+      "profitOrLossBeforeIncomeTax": 347141000,
+      "incomeTaxPaidCashBasis": 160871000,
+      "incomeTaxAccruedCurrentYear": 106588000,
+      "accumulatedEarnings": 2508035000,
+      "numberOfEmployees": 982
+    },
+    {
+      "taxJurisdiction": "Algeria",
+      "countryCode": "DZ",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 1391432000,
+      "revenueFromUnrelatedParties": 699172000,
+      "revenueFromRelatedParties": 692260000,
+      "profitOrLossBeforeIncomeTax": 693048000,
+      "incomeTaxPaidCashBasis": 590668000,
+      "incomeTaxAccruedCurrentYear": 596425000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 763
+    },
+    {
+      "taxJurisdiction": "Angola",
+      "countryCode": "AO",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 2372234000,
+      "revenueFromUnrelatedParties": 320189000,
+      "revenueFromRelatedParties": 2052045000,
+      "profitOrLossBeforeIncomeTax": 534269000,
+      "incomeTaxPaidCashBasis": 221298000,
+      "incomeTaxAccruedCurrentYear": 256244000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 368
+    },
+    {
+      "taxJurisdiction": "Congo",
+      "countryCode": "CG",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 1468378000,
+      "revenueFromUnrelatedParties": 476742000,
+      "revenueFromRelatedParties": 991636000,
+      "profitOrLossBeforeIncomeTax": -363223000,
+      "incomeTaxPaidCashBasis": 243499000,
+      "incomeTaxAccruedCurrentYear": 294406000,
+      "accumulatedEarnings": -1216711000,
+      "numberOfEmployees": 515
+    },
+    {
+      "taxJurisdiction": "Democratic Republic of the Congo",
+      "countryCode": "CD",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 2000,
+      "revenueFromUnrelatedParties": 2000,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": -188000,
+      "incomeTaxPaidCashBasis": null,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": -1537000,
+      "numberOfEmployees": null
+    },
+    {
+      "taxJurisdiction": "Egypt",
+      "countryCode": "EG",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 3770933000,
+      "revenueFromUnrelatedParties": 3761803000,
+      "revenueFromRelatedParties": 9130000,
+      "profitOrLossBeforeIncomeTax": 1924646000,
+      "incomeTaxPaidCashBasis": 602584000,
+      "incomeTaxAccruedCurrentYear": 536231000,
+      "accumulatedEarnings": 304000,
+      "numberOfEmployees": 2959
+    },
+    {
+      "taxJurisdiction": "Gabon",
+      "countryCode": "GA",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 40148000,
+      "revenueFromUnrelatedParties": 3477000,
+      "revenueFromRelatedParties": 36671000,
+      "profitOrLossBeforeIncomeTax": -12308000,
+      "incomeTaxPaidCashBasis": null,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": -77432000,
+      "numberOfEmployees": 14
+    },
+    {
+      "taxJurisdiction": "Ghana",
+      "countryCode": "GH",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 836591000,
+      "revenueFromUnrelatedParties": 321257000,
+      "revenueFromRelatedParties": 515334000,
+      "profitOrLossBeforeIncomeTax": 202524000,
+      "incomeTaxPaidCashBasis": 13445000,
+      "incomeTaxAccruedCurrentYear": -40567000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 197
+    },
+    {
+      "taxJurisdiction": "Ivory Coast",
+      "countryCode": "CI",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 75000,
+      "revenueFromUnrelatedParties": 75000,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": -11223000,
+      "incomeTaxPaidCashBasis": null,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 4
+    },
+    {
+      "taxJurisdiction": "Kenya",
+      "countryCode": "KE",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 428000,
+      "revenueFromUnrelatedParties": 418000,
+      "revenueFromRelatedParties": 10000,
+      "profitOrLossBeforeIncomeTax": -2990000,
+      "incomeTaxPaidCashBasis": null,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 9
+    },
+    {
+      "taxJurisdiction": "Libya",
+      "countryCode": "LY",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 4451409000,
+      "revenueFromUnrelatedParties": 4035115000,
+      "revenueFromRelatedParties": 416294000,
+      "profitOrLossBeforeIncomeTax": 2240028000,
+      "incomeTaxPaidCashBasis": 1988788000,
+      "incomeTaxAccruedCurrentYear": 2043244000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 4385
+    },
+    {
+      "taxJurisdiction": "Morocco",
+      "countryCode": "MA",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 4188000,
+      "revenueFromUnrelatedParties": 4184000,
+      "revenueFromRelatedParties": 4000,
+      "profitOrLossBeforeIncomeTax": -2581000,
+      "incomeTaxPaidCashBasis": null,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 2
+    },
+    {
+      "taxJurisdiction": "Mozambique",
+      "countryCode": "MZ",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 50320000,
+      "revenueFromUnrelatedParties": 34087000,
+      "revenueFromRelatedParties": 16233000,
+      "profitOrLossBeforeIncomeTax": -22172000,
+      "incomeTaxPaidCashBasis": null,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 171
+    },
+    {
+      "taxJurisdiction": "Nigeria",
+      "countryCode": "NG",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 1591443000,
+      "revenueFromUnrelatedParties": 374093000,
+      "revenueFromRelatedParties": 1217350000,
+      "profitOrLossBeforeIncomeTax": 143452000,
+      "incomeTaxPaidCashBasis": 155518000,
+      "incomeTaxAccruedCurrentYear": 199110000,
+      "accumulatedEarnings": 2226126000,
+      "numberOfEmployees": 1172
+    },
+    {
+      "taxJurisdiction": "South Africa",
+      "countryCode": "ZA",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 9051000,
+      "revenueFromUnrelatedParties": 9045000,
+      "revenueFromRelatedParties": 6000,
+      "profitOrLossBeforeIncomeTax": -9879000,
+      "incomeTaxPaidCashBasis": null,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 6
+    },
+    {
+      "taxJurisdiction": "Tunisia",
+      "countryCode": "TN",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 162565000,
+      "revenueFromUnrelatedParties": 103779000,
+      "revenueFromRelatedParties": 58786000,
+      "profitOrLossBeforeIncomeTax": 7442000,
+      "incomeTaxPaidCashBasis": 96508000,
+      "incomeTaxAccruedCurrentYear": 94642000,
+      "accumulatedEarnings": 9000,
+      "numberOfEmployees": 526
+    },
+    {
+      "taxJurisdiction": "Australia",
+      "countryCode": "AU",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 275435000,
+      "revenueFromUnrelatedParties": 249284000,
+      "revenueFromRelatedParties": 26151000,
+      "profitOrLossBeforeIncomeTax": 35042000,
+      "incomeTaxPaidCashBasis": 29987000,
+      "incomeTaxAccruedCurrentYear": 24813000,
+      "accumulatedEarnings": -132739000,
+      "numberOfEmployees": 88
+    },
+    {
+      "taxJurisdiction": "Bahrain",
+      "countryCode": "BH",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 10000,
+      "revenueFromUnrelatedParties": 10000,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": -3288000,
+      "incomeTaxPaidCashBasis": null,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 1
+    },
+    {
+      "taxJurisdiction": "China",
+      "countryCode": "CN",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 83217000,
+      "revenueFromUnrelatedParties": 77997000,
+      "revenueFromRelatedParties": 5220000,
+      "profitOrLossBeforeIncomeTax": -19343000,
+      "incomeTaxPaidCashBasis": 381000,
+      "incomeTaxAccruedCurrentYear": 5000,
+      "accumulatedEarnings": -12466000,
+      "numberOfEmployees": 62
+    },
+    {
+      "taxJurisdiction": "India",
+      "countryCode": "IN",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 557000,
+      "revenueFromUnrelatedParties": 247000,
+      "revenueFromRelatedParties": 310000,
+      "profitOrLossBeforeIncomeTax": -16740000,
+      "incomeTaxPaidCashBasis": null,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": -270000,
+      "numberOfEmployees": 4
+    },
+    {
+      "taxJurisdiction": "Indonesia",
+      "countryCode": "ID",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 591802000,
+      "revenueFromUnrelatedParties": 336400000,
+      "revenueFromRelatedParties": 255402000,
+      "profitOrLossBeforeIncomeTax": 159401000,
+      "incomeTaxPaidCashBasis": 4409000,
+      "incomeTaxAccruedCurrentYear": 35432000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 322
+    },
+    {
+      "taxJurisdiction": "Iran",
+      "countryCode": "IR",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 7031000,
+      "revenueFromUnrelatedParties": 6631000,
+      "revenueFromRelatedParties": 400000,
+      "profitOrLossBeforeIncomeTax": -1768000,
+      "incomeTaxPaidCashBasis": null,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": null
+    },
+    {
+      "taxJurisdiction": "Iraq",
+      "countryCode": "IQ",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 519656000,
+      "revenueFromUnrelatedParties": 1622000,
+      "revenueFromRelatedParties": 518034000,
+      "profitOrLossBeforeIncomeTax": 95362000,
+      "incomeTaxPaidCashBasis": 30789000,
+      "incomeTaxAccruedCurrentYear": 34611000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 517
+    },
+    {
+      "taxJurisdiction": "Kazakhstan",
+      "countryCode": "KZ",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 2008103000,
+      "revenueFromUnrelatedParties": 804557000,
+      "revenueFromRelatedParties": 1203546000,
+      "profitOrLossBeforeIncomeTax": 900360000,
+      "incomeTaxPaidCashBasis": 172235000,
+      "incomeTaxAccruedCurrentYear": 177897000,
+      "accumulatedEarnings": -1959000,
+      "numberOfEmployees": 1617
+    },
+    {
+      "taxJurisdiction": "Lebanon",
+      "countryCode": "LB",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 781000,
+      "revenueFromUnrelatedParties": 725000,
+      "revenueFromRelatedParties": 56000,
+      "profitOrLossBeforeIncomeTax": -9546000,
+      "incomeTaxPaidCashBasis": null,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": null
+    },
+    {
+      "taxJurisdiction": "Myanmar",
+      "countryCode": "MM",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 120000,
+      "revenueFromUnrelatedParties": 92000,
+      "revenueFromRelatedParties": 28000,
+      "profitOrLossBeforeIncomeTax": -8673000,
+      "incomeTaxPaidCashBasis": null,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 37
+    },
+    {
+      "taxJurisdiction": "Oman",
+      "countryCode": "OM",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 2789000,
+      "revenueFromUnrelatedParties": 2788000,
+      "revenueFromRelatedParties": 1000,
+      "profitOrLossBeforeIncomeTax": -14511000,
+      "incomeTaxPaidCashBasis": null,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 22
+    },
+    {
+      "taxJurisdiction": "Pakistan",
+      "countryCode": "PK",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 144712000,
+      "revenueFromUnrelatedParties": 124728000,
+      "revenueFromRelatedParties": 19984000,
+      "profitOrLossBeforeIncomeTax": 12510000,
+      "incomeTaxPaidCashBasis": 6175000,
+      "incomeTaxAccruedCurrentYear": 1617000,
+      "accumulatedEarnings": -206000,
+      "numberOfEmployees": 310
+    },
+    {
+      "taxJurisdiction": "Russia",
+      "countryCode": "RU",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 126324000,
+      "revenueFromUnrelatedParties": 68191000,
+      "revenueFromRelatedParties": 58133000,
+      "profitOrLossBeforeIncomeTax": 39625000,
+      "incomeTaxPaidCashBasis": 405000,
+      "incomeTaxAccruedCurrentYear": 329000,
+      "accumulatedEarnings": -26087000,
+      "numberOfEmployees": 69
+    },
+    {
+      "taxJurisdiction": "Saudi Arabia",
+      "countryCode": "SA",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 194552000,
+      "revenueFromUnrelatedParties": 194552000,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": null,
+      "incomeTaxPaidCashBasis": 6629000,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": null
+    },
+    {
+      "taxJurisdiction": "Singapore",
+      "countryCode": "SG",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 1643921000,
+      "revenueFromUnrelatedParties": 1381312000,
+      "revenueFromRelatedParties": 262609000,
+      "profitOrLossBeforeIncomeTax": 18623000,
+      "incomeTaxPaidCashBasis": -1432000,
+      "incomeTaxAccruedCurrentYear": 2484000,
+      "accumulatedEarnings": -306000,
+      "numberOfEmployees": 37
+    },
+    {
+      "taxJurisdiction": "Timor Leste",
+      "countryCode": "TL",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 2000,
+      "revenueFromUnrelatedParties": 2000,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": -675000,
+      "incomeTaxPaidCashBasis": null,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 3
+    },
+    {
+      "taxJurisdiction": "Turkmenistan",
+      "countryCode": "TM",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 131272000,
+      "revenueFromUnrelatedParties": 129535000,
+      "revenueFromRelatedParties": 1737000,
+      "profitOrLossBeforeIncomeTax": 34965000,
+      "incomeTaxPaidCashBasis": 10062000,
+      "incomeTaxAccruedCurrentYear": 4310000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 983
+    },
+    {
+      "taxJurisdiction": "United Arab Emirates",
+      "countryCode": "AE",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 1129111000,
+      "revenueFromUnrelatedParties": 10720000,
+      "revenueFromRelatedParties": 1118391000,
+      "profitOrLossBeforeIncomeTax": 620705000,
+      "incomeTaxPaidCashBasis": 468771000,
+      "incomeTaxAccruedCurrentYear": 573195000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 104
+    },
+    {
+      "taxJurisdiction": "Vietnam",
+      "countryCode": "VN",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 5498000,
+      "revenueFromUnrelatedParties": 5493000,
+      "revenueFromRelatedParties": 5000,
+      "profitOrLossBeforeIncomeTax": -7829000,
+      "incomeTaxPaidCashBasis": null,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 42
+    },
+    {
+      "taxJurisdiction": "Argentina",
+      "countryCode": "AR",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 2694000,
+      "revenueFromUnrelatedParties": 8000,
+      "revenueFromRelatedParties": 2686000,
+      "profitOrLossBeforeIncomeTax": -909000,
+      "incomeTaxPaidCashBasis": 1586000,
+      "incomeTaxAccruedCurrentYear": -642000,
+      "accumulatedEarnings": -7056000,
+      "numberOfEmployees": 3
+    },
+    {
+      "taxJurisdiction": "Ecuador",
+      "countryCode": "EC",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 119161000,
+      "revenueFromUnrelatedParties": 112170000,
+      "revenueFromRelatedParties": 6991000,
+      "profitOrLossBeforeIncomeTax": 16980000,
+      "incomeTaxPaidCashBasis": 3971000,
+      "incomeTaxAccruedCurrentYear": 4072000,
+      "accumulatedEarnings": 31059000,
+      "numberOfEmployees": 488
+    },
+    {
+      "taxJurisdiction": "Mexico",
+      "countryCode": "MX",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 116136000,
+      "revenueFromUnrelatedParties": 114216000,
+      "revenueFromRelatedParties": 1920000,
+      "profitOrLossBeforeIncomeTax": -37786000,
+      "incomeTaxPaidCashBasis": null,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": -138064000,
+      "numberOfEmployees": 186
+    },
+    {
+      "taxJurisdiction": "United States",
+      "countryCode": "US",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 4103804000,
+      "revenueFromUnrelatedParties": 3044595000,
+      "revenueFromRelatedParties": 1059209000,
+      "profitOrLossBeforeIncomeTax": 44182000,
+      "incomeTaxPaidCashBasis": 12906000,
+      "incomeTaxAccruedCurrentYear": 10591000,
+      "accumulatedEarnings": -2615317000,
+      "numberOfEmployees": 365
+    },
+    {
+      "taxJurisdiction": "Venezuela",
+      "countryCode": "VE",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 143911000,
+      "revenueFromUnrelatedParties": 42042000,
+      "revenueFromRelatedParties": 101869000,
+      "profitOrLossBeforeIncomeTax": -115842000,
+      "incomeTaxPaidCashBasis": null,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": -6186000,
+      "numberOfEmployees": 132
+    }
+  ],
+  "section3": [
+    {
+      "taxJurisdiction": "Italy",
+      "countryCode": "IT",
+      "subsidiaries": [
+        {
+          "name": "Agenzia Giornalistica Italia SpA",
+          "activitiesNature": [
+            "Administrative, Management or Support Services"
+          ]
+        },
+        {
+          "name": "Anic Partecipazioni SpA (in liquidation)",
+          "activitiesNature": [
+            "Dormant"
+          ]
+        },
+        {
+          "name": "Costiero Gas Livorno SpA (JO)",
+          "activitiesNature": [
+            "Sales, Marketing or Distribution"
+          ]
+        },
+        {
+          "name": "Eni SpA",
+          "activitiesNature": [
+            "Manufacturing or Production",
+            "Sales, Marketing or Distribution",
+            "Administrative, Management or Support Services",
+            "Research and Development"
+          ]
+        },
+        {
+          "name": "Versalis SpA",
+          "activitiesNature": [
+            "Manufacturing or Production"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Algeria",
+      "countryCode": "DZ",
+      "subsidiaries": [
+        {
+          "name": "Eni Algeria Exploration BV - PE",
+          "activitiesNature": [
+            "Manufacturing or Production"
+          ]
+        },
+        {
+          "name": "Eni Algeria Ltd Sàrl - PE",
+          "activitiesNature": [
+            "Manufacturing or Production"
+          ]
+        },
+        {
+          "name": "Eni Algeria Production BV - PE",
+          "activitiesNature": [
+            "Manufacturing or Production"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Libya",
+      "countryCode": "LY",
+      "subsidiaries": [
+        {
+          "name": "Eni North Africa BV - PE",
+          "activitiesNature": [
+            "Manufacturing or Production"
+          ]
+        },
+        {
+          "name": "GreenStream BV - PE",
+          "activitiesNature": [
+            "Transportation activities (via pipeline)"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Egypt",
+      "countryCode": "EG",
+      "subsidiaries": [
+        {
+          "name": "Burren Energy (Egypt) Ltd - PE",
+          "activitiesNature": [
+            "Manufacturing or Production"
+          ]
+        },
+        {
+          "name": "Ieoc Exploration BV - PE",
+          "activitiesNature": [
+            "Manufacturing or Production"
+          ]
+        },
+        {
+          "name": "Ieoc Production BV - PE",
+          "activitiesNature": [
+            "Manufacturing or Production"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Kazakhstan",
+      "countryCode": "KZ",
+      "subsidiaries": [
+        {
+          "name": "Agip Caspian Sea BV - PE",
+          "activitiesNature": [
+            "Manufacturing or Production"
+          ]
+        },
+        {
+          "name": "Agip Karachaganak BV - PE",
+          "activitiesNature": [
+            "Manufacturing or Production"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "United Arab Emirates",
+      "countryCode": "AE",
+      "subsidiaries": [
+        {
+          "name": "Eni Abu Dhabi BV - PE",
+          "activitiesNature": [
+            "Manufacturing or Production"
+          ]
+        },
+        {
+          "name": "Eni Sharjah BV - PE",
+          "activitiesNature": [
+            "Research and Development"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "United States",
+      "countryCode": "US",
+      "subsidiaries": [
+        {
+          "name": "Eni Petroleum Co Inc",
+          "activitiesNature": [
+            "Manufacturing or Production"
+          ]
+        },
+        {
+          "name": "Eni USA Inc",
+          "activitiesNature": [
+            "Manufacturing or Production"
+          ]
+        }
+      ]
+    }
+  ],
+  "section4": {
+    "hasOmittedInformation": false,
+    "omissionDetails": null,
+    "omissionExpiryYear": null
+  },
+  "section5": {
+    "hasMaterialDiscrepancies": false,
+    "discrepancyExplanation": null
+  },
+  "extractionMetadata": {
+    "sourceUrl": "C:/Users/aliso/Downloads/Country-by-Country-2019-ENI.pdf",
+    "sourceType": "pdf",
+    "extractedAt": "2026-03-03T15:22:52.930Z",
+    "extractionModel": "claude-sonnet-4-20250514",
+    "confidenceNotes": null,
+    "manualReviewStatus": "pending"
+  }
+}

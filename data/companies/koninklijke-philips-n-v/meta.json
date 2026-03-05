@@ -1,0 +1,32 @@
+{
+  "id": "koninklijke-philips-n-v",
+  "name": "Koninklijke Philips N.V.",
+  "registeredOfficeCountry": "NL",
+  "registeredOfficeCity": "Amsterdam",
+  "sector": "Healthcare Technology",
+  "regulationBasis": "voluntary",
+  "lei": null,
+  "sources": [
+    {
+      "financialYear": "fy2022",
+      "sourceUrl": "C:/Users/aliso/Downloads/PhilipsCountryActivityAndTaxReport2022.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T14:38:40.717Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2021",
+      "sourceUrl": "C:/Users/aliso/Downloads/PhilipsCountryActivityAndTaxReport2021.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T15:07:11.535Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2020",
+      "sourceUrl": "C:/Users/aliso/Downloads/PhilipsCountryActivityAndTaxReport2020.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T15:14:38.358Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    }
+  ]
+}

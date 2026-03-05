@@ -1,0 +1,163 @@
+{
+  "companyId": "koninklijke-philips-n-v",
+  "companyName": "Koninklijke Philips N.V.",
+  "section1": {
+    "ultimateParentName": "Koninklijke Philips N.V.",
+    "registeredOfficeCountry": "NL",
+    "financialYearStart": "2021-01-01",
+    "financialYearEnd": "2021-12-31",
+    "reportingCurrency": "EUR",
+    "taxReportingBasis": "consolidated",
+    "basisDescription": "Country Activity and Tax Report prepared in accordance with GRI Standard 207: Tax"
+  },
+  "section2": [
+    {
+      "taxJurisdiction": "Netherlands",
+      "countryCode": "NL",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 8235040000,
+      "revenueFromUnrelatedParties": 1860080000,
+      "revenueFromRelatedParties": 6374960000,
+      "profitOrLossBeforeIncomeTax": 4041950000,
+      "incomeTaxPaidCashBasis": 536030000,
+      "incomeTaxAccruedCurrentYear": 518560000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 11153
+    },
+    {
+      "taxJurisdiction": "United States",
+      "countryCode": "US",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": 9907590000,
+      "revenueFromUnrelatedParties": 6403490000,
+      "revenueFromRelatedParties": 3504100000,
+      "profitOrLossBeforeIncomeTax": -419420000,
+      "incomeTaxPaidCashBasis": 103960000,
+      "incomeTaxAccruedCurrentYear": 148220000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 21200
+    },
+    {
+      "taxJurisdiction": "Germany",
+      "countryCode": "DE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 2261170000,
+      "revenueFromUnrelatedParties": 970430000,
+      "revenueFromRelatedParties": 1290740000,
+      "profitOrLossBeforeIncomeTax": 130530000,
+      "incomeTaxPaidCashBasis": 27700000,
+      "incomeTaxAccruedCurrentYear": 35920000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 3762
+    },
+    {
+      "taxJurisdiction": "China",
+      "countryCode": "CN",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": 2247810000,
+      "revenueFromUnrelatedParties": 1400290000,
+      "revenueFromRelatedParties": 847520000,
+      "profitOrLossBeforeIncomeTax": 72400000,
+      "incomeTaxPaidCashBasis": 19020000,
+      "incomeTaxAccruedCurrentYear": 15170000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 8045
+    },
+    {
+      "taxJurisdiction": "India",
+      "countryCode": "IN",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": 768090000,
+      "revenueFromUnrelatedParties": 431270000,
+      "revenueFromRelatedParties": 336820000,
+      "profitOrLossBeforeIncomeTax": 54490000,
+      "incomeTaxPaidCashBasis": 13100000,
+      "incomeTaxAccruedCurrentYear": 10730000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 8330
+    },
+    {
+      "taxJurisdiction": "Japan",
+      "countryCode": "JP",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": 1104110000,
+      "revenueFromUnrelatedParties": 1067960000,
+      "revenueFromRelatedParties": 36150000,
+      "profitOrLossBeforeIncomeTax": 41960000,
+      "incomeTaxPaidCashBasis": 29050000,
+      "incomeTaxAccruedCurrentYear": 26810000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 2257
+    },
+    {
+      "taxJurisdiction": "France",
+      "countryCode": "FR",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 508740000,
+      "revenueFromUnrelatedParties": 446230000,
+      "revenueFromRelatedParties": 62510000,
+      "profitOrLossBeforeIncomeTax": 0,
+      "incomeTaxPaidCashBasis": 10020000,
+      "incomeTaxAccruedCurrentYear": 6580000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 1006
+    },
+    {
+      "taxJurisdiction": "United Kingdom",
+      "countryCode": "GB",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": 506800000,
+      "revenueFromUnrelatedParties": 425930000,
+      "revenueFromRelatedParties": 80870000,
+      "profitOrLossBeforeIncomeTax": -12570000,
+      "incomeTaxPaidCashBasis": 690000,
+      "incomeTaxAccruedCurrentYear": -2550000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 1105
+    },
+    {
+      "taxJurisdiction": "Indonesia",
+      "countryCode": "ID",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": 504080000,
+      "revenueFromUnrelatedParties": 127120000,
+      "revenueFromRelatedParties": 376960000,
+      "profitOrLossBeforeIncomeTax": 16800000,
+      "incomeTaxPaidCashBasis": 1400000,
+      "incomeTaxAccruedCurrentYear": 6290000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 4270
+    },
+    {
+      "taxJurisdiction": "Singapore",
+      "countryCode": "SG",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": 503560000,
+      "revenueFromUnrelatedParties": 113950000,
+      "revenueFromRelatedParties": 389610000,
+      "profitOrLossBeforeIncomeTax": -850000,
+      "incomeTaxPaidCashBasis": 510000,
+      "incomeTaxAccruedCurrentYear": 1030000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 485
+    }
+  ],
+  "section3": [],
+  "section4": {
+    "hasOmittedInformation": false,
+    "omissionDetails": null,
+    "omissionExpiryYear": null
+  },
+  "section5": {
+    "hasMaterialDiscrepancies": false,
+    "discrepancyExplanation": null
+  },
+  "extractionMetadata": {
+    "sourceUrl": "C:/Users/aliso/Downloads/PhilipsCountryActivityAndTaxReport2021.pdf",
+    "sourceType": "pdf",
+    "extractedAt": "2026-03-03T15:07:11.525Z",
+    "extractionModel": "claude-sonnet-4-20250514",
+    "confidenceNotes": null,
+    "manualReviewStatus": "pending"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "hsbc-holdings-plc",
+  "name": "HSBC Holdings plc",
+  "registeredOfficeCountry": "GB",
+  "registeredOfficeCity": "London",
+  "sector": "Banking",
+  "regulationBasis": "crd_iv_article_89",
+  "lei": null,
+  "sources": [
+    {
+      "financialYear": "fy2023",
+      "sourceUrl": "https://www.hsbc.com/-/files/hsbc/investors/investing-in-hsbc/all-reporting/group/2024/240620-the-capital-requirements-country-by-country-reporting-regulations-2023.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T20:49:39.683Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2022",
+      "sourceUrl": "https://www.hsbc.com/-/files/hsbc/investors/investing-in-hsbc/all-reporting/group/2023/230703-the-capital-requirements-country-by-country-reporting-regulations-2022.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T20:51:36.723Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    }
+  ]
+}

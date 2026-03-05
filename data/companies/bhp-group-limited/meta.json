@@ -1,0 +1,25 @@
+{
+  "id": "bhp-group-limited",
+  "name": "BHP Group Limited",
+  "registeredOfficeCountry": "AU",
+  "registeredOfficeCity": "Melbourne",
+  "sector": "Mining",
+  "regulationBasis": "voluntary",
+  "lei": null,
+  "sources": [
+    {
+      "financialYear": "fy2024",
+      "sourceUrl": "https://www.bhp.com/-/media/documents/ourapproach/operatingwithintegrity/taxandtransparency/251119_bhpcountrybycountryreport2024.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T13:01:23.849Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2022",
+      "sourceUrl": "https://www.bhp.com/-/media/documents/ourapproach/operatingwithintegrity/taxandtransparency/231221_countrybycountryreport2022.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T20:22:34.301Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    }
+  ]
+}

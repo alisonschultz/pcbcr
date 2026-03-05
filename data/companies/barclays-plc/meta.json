@@ -1,0 +1,32 @@
+{
+  "id": "barclays-plc",
+  "name": "Barclays PLC",
+  "registeredOfficeCountry": "GB",
+  "registeredOfficeCity": "London",
+  "sector": "Banking",
+  "regulationBasis": "crd_iv_article_89",
+  "lei": null,
+  "sources": [
+    {
+      "financialYear": "fy2024",
+      "sourceUrl": "https://home.barclays/content/dam/home-barclays/documents/investor-relations/reports-and-events/annual-reports/2025/Country-Snapshot-2025.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T20:41:29.715Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2023",
+      "sourceUrl": "https://home.barclays/content/dam/home-barclays/documents/investor-relations/reports-and-events/annual-reports/2024/Country-Snapshot-2024.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T20:44:05.362Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2022",
+      "sourceUrl": "https://home.barclays/content/dam/home-barclays/documents/investor-relations/reports-and-events/annual-reports/2023/Barclays%20Country%20Snapshot%202023.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-03-03T20:47:20.419Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    }
+  ]
+}
