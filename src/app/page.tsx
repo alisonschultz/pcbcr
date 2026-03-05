@@ -48,7 +48,7 @@ export default function HomePage() {
             <strong className="text-gray-700">{countries}</strong> countries
           </span>
           <a
-            href="/all-reports.csv"
+            href={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/all-reports.csv`}
             download
             className="ml-auto rounded bg-blue-600 px-3 py-1 text-sm text-white hover:bg-blue-700"
           >
