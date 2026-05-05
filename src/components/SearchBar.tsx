@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useMemo } from "react";
+import Link from "next/link";
 import type { CompanyIndex, RegulationBasis } from "@/lib/types";
 
 const regulationLabels: Record<RegulationBasis, string> = {
@@ -86,12 +87,12 @@ export default function SearchBar({
             {filtered.map((company) => (
               <tr key={company.id} className="hover:bg-gray-50">
                 <td className="px-4 py-3">
-                  <a
+                  <Link
                     href={`/company/${company.id}`}
                     className="font-medium text-blue-600 hover:underline"
                   >
                     {company.name}
-                  </a>
+                  </Link>
                 </td>
                 <td className="px-4 py-3">{company.country}</td>
                 <td className="px-4 py-3 text-gray-600">{company.sector}</td>

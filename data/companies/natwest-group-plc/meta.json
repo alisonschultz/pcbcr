@@ -1,0 +1,17 @@
+{
+  "id": "natwest-group-plc",
+  "name": "NatWest Group plc",
+  "registeredOfficeCountry": "GB",
+  "registeredOfficeCity": "Edinburgh",
+  "sector": "Banking",
+  "lei": null,
+  "sources": [
+    {
+      "financialYear": "fy2024",
+      "sourceUrl": "C:/Users/aliso/AppData/Local/Temp/nwg.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-04T12:28:01.180Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    }
+  ]
+}

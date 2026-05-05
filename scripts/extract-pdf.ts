@@ -72,13 +72,46 @@ function slugify(name: string): string {
     .replace(/^-|-$/g, "");
 }
 
+function parsePageRange(spec: string, totalPages: number): number[] {
+  const indices = new Set<number>();
+  for (const part of spec.split(",")) {
+    const trimmed = part.trim();
+    if (!trimmed) continue;
+    const m = trimmed.match(/^(\d+)(?:-(\d+))?$/);
+    if (!m) throw new Error(`Invalid page range segment: "${trimmed}"`);
+    const start = parseInt(m[1], 10);
+    const end = m[2] ? parseInt(m[2], 10) : start;
+    if (start < 1 || end < start || end > totalPages) {
+      throw new Error(
+        `Page range "${trimmed}" out of bounds (PDF has ${totalPages} pages)`
+      );
+    }
+    for (let p = start; p <= end; p++) indices.add(p - 1);
+  }
+  return Array.from(indices).sort((a, b) => a - b);
+}
+
+async function slicePdf(buffer: Buffer, pageSpec: string): Promise<Buffer> {
+  const mupdf = await import("mupdf");
+  const doc = mupdf.PDFDocument.openDocument(buffer, "application/pdf") as InstanceType<
+    typeof mupdf.PDFDocument
+  >;
+  const indices = parsePageRange(pageSpec, doc.countPages());
+  doc.rearrangePages(indices);
+  const out = doc
+    .saveToBuffer("compress=yes,clean=yes,sanitize=yes,garbage=yes")
+    .asUint8Array();
+  return Buffer.from(out);
+}
+
 async function extractFromPdf(
   pdfUrl: string,
   companyName: string,
   financialYear: string,
-  country: string
+  country: string,
+  pageSpec?: string
 ) {
-  let pdfBase64: string;
+  let pdfBuffer: Buffer;
 
   if (pdfUrl.startsWith("http://") || pdfUrl.startsWith("https://")) {
     console.log(`Downloading PDF from: ${pdfUrl}`);
@@ -94,19 +127,26 @@ async function extractFromPdf(
         `Failed to download PDF: ${response.status} ${response.statusText}`
       );
     }
-    const pdfBuffer = await response.arrayBuffer();
-    pdfBase64 = Buffer.from(pdfBuffer).toString("base64");
+    pdfBuffer = Buffer.from(await response.arrayBuffer());
     console.log(
       `PDF downloaded: ${(pdfBuffer.byteLength / 1024 / 1024).toFixed(1)} MB`
     );
   } else {
     console.log(`Reading local PDF: ${pdfUrl}`);
-    const pdfBuffer = fs.readFileSync(pdfUrl);
-    pdfBase64 = pdfBuffer.toString("base64");
+    pdfBuffer = fs.readFileSync(pdfUrl);
     console.log(
       `PDF read: ${(pdfBuffer.byteLength / 1024 / 1024).toFixed(1)} MB`
     );
   }
+
+  if (pageSpec) {
+    pdfBuffer = await slicePdf(pdfBuffer, pageSpec);
+    console.log(
+      `Sliced to pages ${pageSpec}: ${(pdfBuffer.byteLength / 1024 / 1024).toFixed(2)} MB`
+    );
+  }
+
+  const pdfBase64 = pdfBuffer.toString("base64");
 
   console.log("Sending to Claude for extraction...");
   const maxRetries = 5;
@@ -115,7 +155,7 @@ async function extractFromPdf(
     try {
       const stream = client.messages.stream({
         model: "claude-sonnet-4-20250514",
-        max_tokens: 32000,
+        max_tokens: 16000,
         messages: [
           {
             role: "user",
@@ -271,13 +311,14 @@ for (let i = 0; i < args.length; i += 2) {
 
 if (!argMap.url || !argMap.company || !argMap.fy || !argMap.country) {
   console.error(
-    "Usage: npx tsx scripts/extract-pdf.ts --url <pdf-url> --company <name> --fy <year> --country <code>"
+    "Usage: npx tsx scripts/extract-pdf.ts --url <pdf-url> --company <name> --fy <year> --country <code> [--pages <range>]"
   );
   console.error("Example: npx tsx scripts/extract-pdf.ts --url https://example.com/report.pdf --company 'Volkswagen AG' --fy 2025 --country DE");
+  console.error("Page range example: --pages 450-455 or --pages 12,18-22,30");
   process.exit(1);
 }
 
-extractFromPdf(argMap.url, argMap.company, argMap.fy, argMap.country).catch(
+extractFromPdf(argMap.url, argMap.company, argMap.fy, argMap.country, argMap.pages).catch(
   (err) => {
     console.error("Extraction failed:", err);
     process.exit(1);

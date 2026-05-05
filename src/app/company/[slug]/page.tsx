@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { getAllCompanies, getCompanyMeta, getCompanyReport } from "@/lib/data";
 import { formatCurrency } from "@/lib/export";
 import type { RegulationBasis } from "@/lib/types";
@@ -24,9 +25,9 @@ export default async function CompanyPage({
   return (
     <div>
       <div className="mb-6">
-        <a href="/" className="text-sm text-blue-600 hover:underline">
+        <Link href="/" className="text-sm text-blue-600 hover:underline">
           &larr; All companies
-        </a>
+        </Link>
       </div>
 
       <h1 className="mb-2 text-3xl font-bold">{meta.name}</h1>
@@ -65,7 +66,7 @@ export default async function CompanyPage({
           const jurisdictions = report.section2.length;
 
           return (
-            <a
+            <Link
               key={fy}
               href={`/company/${slug}/${fy}`}
               className="block rounded-lg border border-gray-200 bg-white p-6 hover:border-blue-300 hover:shadow-md"
@@ -102,7 +103,7 @@ export default async function CompanyPage({
                   {report.extractionMetadata.manualReviewStatus}
                 </span>
               </div>
-            </a>
+            </Link>
           );
         })}
       </div>

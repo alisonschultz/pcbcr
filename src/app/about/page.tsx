@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function AboutPage() {
   return (
     <div className="prose prose-gray max-w-3xl">
@@ -84,7 +86,7 @@ export default function AboutPage() {
       <p>
         If you find a company&apos;s public CbCR report that is not yet in our
         database, you can{" "}
-        <a href="/submit">submit it</a> for extraction. The process is automated
+        <Link href="/submit">submit it</Link> for extraction. The process is automated
         and the data will be reviewed before publication.
       </p>
 

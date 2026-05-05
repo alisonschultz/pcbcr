@@ -1,3 +1,4 @@
+import Link from "next/link";
 import {
   getAllCompanies,
   getCompanyReport,
@@ -28,16 +29,16 @@ export default async function FYPage({
   return (
     <div>
       <div className="mb-6 flex gap-2 text-sm text-blue-600">
-        <a href="/" className="hover:underline">
+        <Link href="/" className="hover:underline">
           Companies
-        </a>
+        </Link>
         <span className="text-gray-400">/</span>
-        <a
+        <Link
           href={`/company/${slug}`}
           className="hover:underline"
         >
           {report.companyName}
-        </a>
+        </Link>
         <span className="text-gray-400">/</span>
         <span className="text-gray-600">
           {fy.replace("fy", "FY ")}

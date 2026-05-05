@@ -1,0 +1,24 @@
+{
+  "id": "lloyds-banking-group-plc",
+  "name": "Lloyds Banking Group plc",
+  "registeredOfficeCountry": "GB",
+  "registeredOfficeCity": "London",
+  "sector": "Banking",
+  "lei": null,
+  "sources": [
+    {
+      "financialYear": "fy2024",
+      "sourceUrl": "https://www.lloydsbankinggroup.com/assets/pdfs/investors/financial-performance/lloyds-banking-group-plc/2024/q4/2024-lbg-crdiv-country-analysis.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-04T12:17:01.225Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2023",
+      "sourceUrl": "https://www.lloydsbankinggroup.com/assets/pdfs/investors/financial-performance/lloyds-banking-group-plc/2023/q4/2023-lbg-crdiv-country-analysis.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-04T12:22:36.929Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    }
+  ]
+}

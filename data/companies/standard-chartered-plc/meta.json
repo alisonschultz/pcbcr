@@ -1,0 +1,17 @@
+{
+  "id": "standard-chartered-plc",
+  "name": "Standard Chartered PLC",
+  "registeredOfficeCountry": "GB",
+  "registeredOfficeCity": "London",
+  "sector": "Banking",
+  "lei": null,
+  "sources": [
+    {
+      "financialYear": "fy2024",
+      "sourceUrl": "https://www.sc.com/en/uploads/sites/66/content/docs/capital-requirements-country-by-country-reporting-regulations.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-04T12:13:40.134Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    }
+  ]
+}

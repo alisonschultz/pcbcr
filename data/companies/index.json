@@ -63,6 +63,28 @@
     ]
   },
   {
+    "id": "deutsche-bank-ag",
+    "name": "Deutsche Bank AG",
+    "country": "DE",
+    "sector": "Banking",
+    "regulationBasis": "voluntary",
+    "financialYears": [
+      "fy2013",
+      "fy2014",
+      "fy2015",
+      "fy2016",
+      "fy2017",
+      "fy2018",
+      "fy2019",
+      "fy2020",
+      "fy2021",
+      "fy2022",
+      "fy2023",
+      "fy2024",
+      "fy2025"
+    ]
+  },
+  {
     "id": "eni-s-p-a",
     "name": "Eni S.p.A.",
     "country": "IT",
@@ -110,6 +132,27 @@
     ]
   },
   {
+    "id": "lloyds-banking-group-plc",
+    "name": "Lloyds Banking Group plc",
+    "country": "GB",
+    "sector": "Banking",
+    "regulationBasis": "voluntary",
+    "financialYears": [
+      "fy2023",
+      "fy2024"
+    ]
+  },
+  {
+    "id": "natwest-group-plc",
+    "name": "NatWest Group plc",
+    "country": "GB",
+    "sector": "Banking",
+    "regulationBasis": "voluntary",
+    "financialYears": [
+      "fy2024"
+    ]
+  },
+  {
     "id": "repsol-s-a",
     "name": "Repsol S.A.",
     "country": "ES",
@@ -139,6 +182,16 @@
     "regulationBasis": "eu_directive_2021_2101",
     "financialYears": [
       "fy2025"
+    ]
+  },
+  {
+    "id": "standard-chartered-plc",
+    "name": "Standard Chartered PLC",
+    "country": "GB",
+    "sector": "Banking",
+    "regulationBasis": "voluntary",
+    "financialYears": [
+      "fy2024"
     ]
   }
 ]

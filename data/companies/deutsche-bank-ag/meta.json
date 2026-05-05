@@ -1,0 +1,101 @@
+{
+  "id": "deutsche-bank-ag",
+  "name": "Deutsche Bank AG",
+  "registeredOfficeCountry": "DE",
+  "registeredOfficeCity": "Frankfurt am Main",
+  "sector": "Banking",
+  "lei": null,
+  "sources": [
+    {
+      "financialYear": "fy2025",
+      "sourceUrl": "https://investor-relations.db.com/files/documents/other-presentations-and-events/2025/Annual-Report-2025.pdf?language_id=1",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-05T15:27:25.477Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2024",
+      "sourceUrl": "https://investor-relations.db.com/files/documents/other-presentations-and-events/2024/Annual-Report-2024.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-05T15:38:38.519Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2023",
+      "sourceUrl": "https://investor-relations.db.com/files/documents/annual-reports/2024/Annual-Report-2023.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-05T15:40:40.162Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2022",
+      "sourceUrl": "https://investor-relations.db.com/files/documents/annual-reports/2023/Annual-Report-2022.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-05T15:42:40.535Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2021",
+      "sourceUrl": "https://investor-relations.db.com/files/documents/annual-reports/2022/Annual_Report_2021.pdf?language_id=1",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-05T15:44:48.055Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2020",
+      "sourceUrl": "https://investor-relations.db.com/files/documents/annual-reports/Annual_Report_2020.pdf?language_id=1",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-05T15:46:38.192Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2019",
+      "sourceUrl": "https://investor-relations.db.com/files/documents/annual-reports/Deutsche_Bank_Annual_Report_2019.pdf?language_id=1",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-05T15:48:39.297Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2018",
+      "sourceUrl": "https://investor-relations.db.com/files/documents/annual-reports/Deutsche_Bank_Annual_Report_2018.pdf?language_id=1",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-05T15:58:27.376Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2017",
+      "sourceUrl": "https://investor-relations.db.com/files/documents/annual-reports/DB_Annual_Report_2017.pdf?language_id=1",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-05T15:51:27.518Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2016",
+      "sourceUrl": "https://investor-relations.db.com/files/documents/annual-reports/Deutsche_Bank_Annual_Report_2016.pdf?language_id=1",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-05T16:00:24.229Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2015",
+      "sourceUrl": "https://investor-relations.db.com/files/documents/annual-reports/Deutsche_Bank_Annual_Report_2015.pdf?language_id=1",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-05T16:02:22.432Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2014",
+      "sourceUrl": "https://investor-relations.db.com/files/documents/annual-reports/deutsche_bank_annual_report_2014_entire.pdf?kid=14.redirect-en.shortcut&language_id=1",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-05T15:54:53.869Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2013",
+      "sourceUrl": "https://investor-relations.db.com/files/documents/annual-reports/Deutsche_Bank_CbCR_Disclosure_2013.pdf?language_id=3",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-05T15:55:49.981Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    }
+  ]
+}
